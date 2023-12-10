@@ -29,16 +29,21 @@ An innovative method for experimental data acquisition and management of collect
    <a href="https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki">
      <img align="center" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/12-bit%20Smart%20Data%20Acquisition%20Device%20with%20SWARM%20Technology%20and%20Unique%20Fingerprint%20Identification.gif" alt="Real time validation of experimental data" width="400">
    </a>
+ <br>
+  Video 1 – 360° view of a 12-bit Smart DAQ the "S.D.A.D"
 </p>
 
-
+### Youtube channel
 <p align="center">
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=uzuPwudTzNk&t" target="_blank">
-    <img src="http://img.youtube.com/vi/uzuPwudTzNk&t/mqdefault.jpg" alt="Watch the video"  border="10" />
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=uzuPwudTzNk" target="_blank">
+    <img src="http://img.youtube.com/vi/uzuPwudTzNk/mqdefault.jpg" alt="Watch the video"  border="10" />
   </a>
-
- <br>
-  Video 1 – 360° view preliminary setup instrumentation of a "rammed earth" specimen with a 12-bit Smart DAQ
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=EvLZCIj2IXs" target="_blank">
+    <img src="http://img.youtube.com/vi/EvLZCIj2IXs/mqdefault.jpg" alt="Watch the video"  border="10" />
+  </a>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Yox3ejbAqxY" target="_blank">
+    <img src="http://img.youtube.com/vi/Yox3ejbAqxY/mqdefault.jpg" alt="Watch the video"  border="10" />
+  </a>
 </p>
 
 
