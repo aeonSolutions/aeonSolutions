@@ -25,8 +25,10 @@ For HR and business enquiries send an email to mtpsilva@gmail.com
 ### S.D.A.D - Smart Data Acquisiton Device
 An innovative method for experimental data acquisition and management of collected data in real-time and is compatible with any open environment. The proposed smart DAQ device prototype has the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository hosted remotely on a Dataverse. To learn more about this project click on the video below. 
 
-<a href="https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki">
-<img align="center" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/12-bit%20Smart%20Data%20Acquisition%20Device%20with%20SWARM%20Technology%20and%20Unique%20Fingerprint%20Identification.gif" alt="Real time validation of experimental data" width="400">
-</a>
+<p align="center">
+   <a href="https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki">
+     <img align="center" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/12-bit%20Smart%20Data%20Acquisition%20Device%20with%20SWARM%20Technology%20and%20Unique%20Fingerprint%20Identification.gif" alt="Real time validation of experimental data" width="400">
+   </a>
+</p>
 
 </div>
