@@ -46,5 +46,22 @@ An innovative method for experimental data acquisition and management of collect
   </a>
 </p>
 
+###  Read all about my open hardware projects on ...
+<p align="center">
+   <a href="https://www.instructables.com/member/mtpsilva/instructables/">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/instructables_logo.png" height="50">
+   </a>
+
+   <a href="https://www.hackster.io/mtpsilva">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/hackster_io.png" height="50">
+   </a>
+    <a href="https://medium.com/@mtpsilva">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/medium.jpg" height="50">
+   </a>
+
+   <a href="https://hackaday.io/projects/hacker/1255305">
+      <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/hackday_logo.png" height="50">
+   </a>
+ </p>
 
 </div>
