@@ -31,4 +31,15 @@ An innovative method for experimental data acquisition and management of collect
    </a>
 </p>
 
+
+<p align="center">
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=uzuPwudTzNk&t" target="_blank">
+    <img src="http://img.youtube.com/vi/uzuPwudTzNk&t/mqdefault.jpg" alt="Watch the video"  border="10" />
+  </a>
+
+ <br>
+  Video 1 – 360° view preliminary setup instrumentation of a "rammed earth" specimen with a 12-bit Smart DAQ
+</p>
+
+
 </div>
