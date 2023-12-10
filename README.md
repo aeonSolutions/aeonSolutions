@@ -36,13 +36,13 @@ An innovative method for experimental data acquisition and management of collect
 ### Youtube channel
 <p align="center">
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=uzuPwudTzNk" target="_blank">
-    <img width="33%" src="http://img.youtube.com/vi/uzuPwudTzNk/mqdefault.jpg" alt="Watch the video"  border="10" />
+    <img width="30%" src="http://img.youtube.com/vi/uzuPwudTzNk/mqdefault.jpg" alt="Watch the video"  border="10" />
   </a>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=EvLZCIj2IXs" target="_blank">
-    <img width="33%" src="http://img.youtube.com/vi/EvLZCIj2IXs/mqdefault.jpg" alt="Watch the video"  border="10" />
+    <img width="30%" src="http://img.youtube.com/vi/EvLZCIj2IXs/mqdefault.jpg" alt="Watch the video"  border="10" />
   </a>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=Yox3ejbAqxY" target="_blank">
-    <img width="33%" src="http://img.youtube.com/vi/Yox3ejbAqxY/mqdefault.jpg" alt="Watch the video"  border="10" />
+    <img width="30%" src="http://img.youtube.com/vi/Yox3ejbAqxY/mqdefault.jpg" alt="Watch the video"  border="10" />
   </a>
 </p>
 
