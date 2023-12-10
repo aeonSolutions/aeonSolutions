@@ -1,3 +1,5 @@
+<div align="justify">
+  
 # Miguel Tomas Silva
 (theScientist) <br>
 
@@ -26,3 +28,5 @@ An innovative method for experimental data acquisition and management of collect
 <a href="https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki">
 <img align="center" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/12-bit%20Smart%20Data%20Acquisition%20Device%20with%20SWARM%20Technology%20and%20Unique%20Fingerprint%20Identification.gif" alt="Real time validation of experimental data" width="400">
 </a>
+
+</div>
