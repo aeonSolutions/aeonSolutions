@@ -1,1 +1,1 @@
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/12-bit%20Smart%20Data%20Acquisition%20Device%20with%20SWARM%20Technology%20and%20Unique%20Fingerprint%20Identification.gif" alt="Real time validation of experimental data" width="400">
