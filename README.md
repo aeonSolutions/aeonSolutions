@@ -5,6 +5,10 @@
 
 Miguel, an experienced professional in scientific research and smart technology solutions, adeptly combines hardware and software expertise. With a track record of successful remote team management spanning four years, excel in leading and delivering impactful projects. Since 2018, Miguel moderated Slack, WhatsApp, and LinkedIn groups, where provided valuable advice and mentorship to individuals and organizations. His LinkedIn, Twitter, and Stack Overflow profiles showcase achievements and contributions.
 
+<p align="center">
+   <a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+</p>
+
 Noteworthy accomplishments include: <br>
 ■ Pioneering digital transformation at the University of Minho, Laboratory of Construction and Building Materials from 2005 to 2009. <br>
 ■ Driving three digital transformations for start-up enterprises between 2007 and 2020. <br>
@@ -23,7 +27,7 @@ Thank you for considering him on your search. <br>
 For HR and business enquiries send an email to mtpsilva@gmail.com
 
 ### S.D.A.D - Smart Data Acquisiton Device
-An innovative method for experimental data acquisition and management of collected data in real-time and is compatible with any open environment. The proposed smart DAQ device prototype has the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository hosted remotely on a Dataverse. To learn more about this project click on the video below. 
+An innovative method for experimental data acquisition and management of collected data in real-time and is compatible with any open environment. The proposed smart DAQ device prototype has the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository hosted remotely on a Dataverse. To learn more about this project click on the video below. Visit my [open science projects](https://github.com/aeonSolutions/Open-Scientific-Research) to find out more about my current scientific projects. 
 
 <p align="center">
    <a href="https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki">
