@@ -14,7 +14,7 @@ Noteworthy accomplishments include: <br>
 ■ Pioneering digital transformation at the University of Minho, Laboratory of Construction and Building Materials from 2005 to 2009. <br>
 ■ Driving three digital transformations for start-up enterprises between 2007 and 2020. <br>
 ■ Designed, tested, and prototyped over 70 technology solutions, accessible on GitHub. <br>
-■ Specialized in smart self-sensing sensor carbon-based composites for Structural Health Monitoring from 2005 to 2007, 2017 and 2020-23. <br>
+■ Specialized in smart self-sensing sensor carbon-based composites for Structural Health Monitoring from 2005-07, 2017 and 2020-23. <br>
 ■ Successfully designed and prototyped a common injection rail prototype for automotive LPG systems in 2014-2016. <br>
 
 Miguel has an extensive portfolio encompassing more than 60 open hardware smart PCB electronics and over 30 open software solutions, available on GitHub repositories: "[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)" and "[aeonlabs-open-software-catalogue](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)" respectively.
