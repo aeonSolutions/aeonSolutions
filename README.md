@@ -1,7 +1,7 @@
 <div align="justify">
   
 # Miguel Tomas Silva
-(theScientist) <br>
+([theScientist](https://repositorium.sdum.uminho.pt/handle/1822/7982)) <br>
 
 Miguel, an experienced professional in scientific research and smart technology solutions, adeptly combines hardware and software expertise. With a track record of successful remote team management spanning four years, excel in leading and delivering impactful projects. Since 2018, Miguel moderated Slack, WhatsApp, and LinkedIn groups, where provided valuable advice and mentorship to individuals and organizations. His LinkedIn, Twitter, and Stack Overflow profiles showcase achievements and contributions.
 
