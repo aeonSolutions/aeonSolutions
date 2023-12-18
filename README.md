@@ -3,7 +3,7 @@
 # Miguel Tomas Silva
 ([theScientist](https://repositorium.sdum.uminho.pt/handle/1822/7982)) <br>
 
-Miguel, an experienced professional in scientific research and smart technology solutions, adeptly combines hardware and software expertise. With a track record of successful remote team management spanning four years, excel in leading and delivering impactful projects. Since 2018, Miguel moderated Slack, WhatsApp, and LinkedIn groups, where provided valuable advice and mentorship to individuals and organizations. His LinkedIn, Twitter, and Stack Overflow profiles showcase achievements and contributions.
+Miguel, an experienced professional in scientific research and smart technology solutions, adeptly combines hardware and software expertise. With a track record of successful remote team management spanning four years, excel in leading and delivering [impactful projects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4027801). Since 2018, Miguel moderated Slack, WhatsApp, and LinkedIn groups, where provided valuable advice and mentorship to individuals and organizations. His LinkedIn, Twitter, and Stack Overflow profiles showcase achievements and contributions.
 
 <p align="center">
    <a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a> <br>
@@ -22,7 +22,7 @@ Noteworthy accomplishments include: <br>
 
 Miguel has an extensive portfolio encompassing more than 60 open hardware smart PCB electronics and over 30 open software solutions, available on GitHub repositories: "[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)" and "[aeonlabs-open-software-catalogue](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)" respectively.
 
-With five authored and two co-authored scientific journal publications, Miguel possesses a deep commitment to advancing knowledge. Miguel holds a Master's degree in Smart Carbon Fiber Composites for Structural Health Monitoring, a sencond master degree and 79.5 ECTS in Master-level courses on Artificial Intelligence and Smart IoT devices from Swedish and Spanish universities.
+With [five authored and two co-authored scientific journal publications](http://https//orcid.org/0000-0002-5910-5179%E2%80%8B), Miguel possesses a deep commitment to advancing knowledge. He holds a Master's degree in Smart Carbon Fiber Composites for Structural Health Monitoring, a second master degree and 79.5 ECTS in Master-level courses on Artificial Intelligence and Smart IoT devices from Swedish and Spanish universities.
 
 On his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/), you can find PDF copies of Miguel's university diplomas, course certifications, recommendation letters, and links to published scientific papers. The most recent publication, "A deep neural network for electrical resistance calibration of self-sensing carbon fiber polymer composites compatible with edge computing structural monitoring hardware electronics," is available in the Journal Structural Health Monitoring ([doi:10.1177/14759217231170001](https://journals.sagepub.com/doi/abs/10.1177/14759217231170001?journalCode=shma)).
 
