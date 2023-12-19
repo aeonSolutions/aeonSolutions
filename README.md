@@ -41,7 +41,7 @@ An innovative method for experimental data acquisition and management of collect
   <sup> Video 1 – 360° view of a 12-bit Smart DAQ the "S.D.A.D" </sup>
 </p>
 
-Other noteworthy projects i've been working on, include "[NVidia's Jetson nano SoM](https://github.com/aeonSolutions/AeonLabs-Jetson-Nano)" where one can find my research and prototype work for an "autonomous eCargo Bike". An "open vacuum cleaner" and a "conversational pod". And also the "[Open Hardware Electronics for Volvo MKII platform" project](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki). Currently designing an OPEN ECU in KiCad. 
+Other noteworthy projects i've been working on, include "[NVidia's Jetson nano SoM](https://github.com/aeonSolutions/AeonLabs-Jetson-Nano)" where one can find my research and prototype work for an "autonomous eCargo Bike". An "open vacuum cleaner" and an open "conversational pod". And also the "[Open Hardware Electronics for Volvo MKII platform"](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki). Currently designing an OPEN ECU in KiCad. 
 
 ### Youtube channel
 <p align="center">
