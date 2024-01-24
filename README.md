@@ -20,7 +20,7 @@ Noteworthy accomplishments include: <br>
 &nbsp;&nbsp;- Common injection rail for LPG systems between 2014-2016. <br>
 &nbsp;&nbsp;- An [OPEN ECU for vehicles](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki/ECU) with a combustion engine in 2023 <br>
 
-Miguel has an extensive portfolio encompassing more than 60 open hardware smart PCB electronics and over 30 open software solutions, available on GitHub repositories: "[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)" and "[aeonlabs-open-software-catalogue](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)" respectively.
+Miguel has an extensive portfolio encompassing more than 60 open hardware smart PCB electronics and over 30 open software solutions, available on GitHub repositories: "[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)" and "[aeonlabs-open-software-catalogue](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)" respectively, from which 6 smart hardware electronics are comercial products sold online. [View a list of open hardware solutions ready to buy, install and use](https://aeonsolutions.github.io/products/).
 
 With [five authored and two co-authored scientific journal publications](http://https//orcid.org/0000-0002-5910-5179%E2%80%8B), Miguel possesses a deep commitment to advancing knowledge. He holds a Master's degree in Smart Carbon Fiber Composites for Structural Health Monitoring, a second master degree and 79.5 ECTS in Master-level courses on Artificial Intelligence and Smart IoT devices from Swedish and Spanish universities.
 
