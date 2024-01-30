@@ -15,7 +15,7 @@ He has a 5yr bachelor in civil engineering. A 2yr master in smart carbon fiber c
 Noteworthy accomplishments include: <br>
 ■ Pioneering digital transformation at the University of Minho, Laboratory of Construction and Building Materials from 2005 to 2009. <br>
 ■ Driving three digital transformations for start-up enterprises between 2007 and 2020. <br>
-■ Designed, tested, and prototyped over 70 technology solutions, accessible on GitHub (see my catalogs). <br>
+■ Designed, tested, and prototyped over 70 technology solutions, accessible on GitHub (see his catalogs). <br>
 ■ Specialized in smart self-sensing sensor carbon-based composites for Structural Health Monitoring from 2005-07, 2017 and 2020-23. <br>
 &nbsp;&nbsp;- Designed & prototyped a [flexible electrode suitable for carbon fiber composites](https://journals.sagepub.com/doi/abs/10.1177/14759217231170001?journalCode=shma) <br>
 ■ Successfully designed & prototyped the following automotive solutions: <br>
