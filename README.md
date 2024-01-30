@@ -3,7 +3,9 @@
 # Miguel Tomas Silva
 ([theScientist](https://repositorium.sdum.uminho.pt/handle/1822/7982)) <br>
 
-Miguel, an experienced professional in scientific research and smart technology solutions, adeptly combines hardware and software expertise. With a track record of successful remote team management spanning four years, excel in leading and delivering [impactful projects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4027801). Since 2018, Miguel moderated Slack, WhatsApp, and LinkedIn groups, where provided valuable advice and mentorship to individuals and organizations. His LinkedIn, Twitter, and Stack Overflow profiles showcase achievements and contributions.
+Miguel, an experienced professional in scientific research and smart technology solutions, adeptly combines hardware and software expertise. With a track record of successful remote team management spanning four years, excel in leading and delivering [impactful projects](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4027801). Since 2018, Miguel moderated Slack, WhatsApp, and LinkedIn groups, where provided valuable advice and mentorship to individuals and organizations. 
+
+He has a 5yr bachelor in civil engineering. A 2yr master in smart carbon fiber composites. A second master in machine learning and artificial intelligence. More than 30 years of experience in computer science and programming. More than 5 years in hardware electronics design, fabrication, and assembly. And in 2024 and 2025 He will be up skilling to mechatronics in particular intelligent machines. His LinkedIn, Twitter, and Stack Overflow profiles showcase achievements and contributions.
 
 <p align="center">
    <a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a> <br>
