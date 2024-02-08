@@ -12,7 +12,7 @@ He has a 5yr bachelor in civil engineering. A 2yr master in smart carbon fiber c
   <sup>Figure 1 - Stack Overlow Participation Statistics</sup>
 </p>
 
-Noteworthy accomplishments include: <br>
+Noteworthy accomplishments: <br>
 ■ Pioneering digital transformation at the University of Minho, Laboratory of Construction and Building Materials from 2005 to 2009. <br>
 ■ Driving three digital transformations for start-up enterprises between 2007 and 2020. <br>
 ■ Designed, tested, and prototyped over 70 technology solutions, accessible on GitHub (see his catalogs). <br>
