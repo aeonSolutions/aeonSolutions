@@ -30,7 +30,7 @@ On his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/), you can fin
 
 Miguel is eager to leverage his expertise, drive innovation, and contribute to technological advancements. <br>
 Thank you for considering him on your search. <br>
-For HR and business enquiries send an email to mtpsilva@gmail.com
+For HR and business enquiries send an email to mtpsilva@gmail.com. Click here to [schedule an online meeting](https://calendar.app.google/95o4Y6yT8FztrA6p6).
 
 ### S.D.A.D - Smart Data Acquisiton Device
 An innovative method for experimental data acquisition and management of collected data in real-time and is compatible with any open environment. The proposed prototype for a smart DAQ device has the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository hosted remotely. For instance a [Dataverse](https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse) or [Zenodo](https://zenodo.org). Titled "[*Validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain‐like Fingerprint ID to a Data Repository*](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki/Validation-of-Experimental-Data-Origins:-A-Swarm-of-DAQ-devices-able-to-Deliver-Unique-Experimental-Data-using-Blockchain‐like-Fingerprint-ID-to-a-Data-Repository)". Visit my [open science projects](https://github.com/aeonSolutions/Open-Scientific-Research) to find out more about my ongoing scientific work.
