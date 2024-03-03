@@ -12,7 +12,7 @@ He has a 5yr bachelor in civil engineering. A 2yr master in smart carbon fiber c
   <sup>Figure 1 - Stack Overlow Participation Statistics</sup>
 </p>
 
-Noteworthy accomplishments: <br>
+**Noteworthy accomplishments** <br>
 ■ Pioneering digital transformation at the [University of Minho](https://www.uminho.pt/EN/Pages/default.aspx), [Laboratory of Construction and Building Materials](https://civil.uminho.pt/laboratorios/materiais/) from 2005 to 2009. <br>
 ■ Driving three digital transformations for start-up enterprises between 2007 and 2020. The most recent a "*[Digital Transformation on a Small Start-Up Enterprise: Design, Prototype, and Deployment Based on Human-Centered Design Principles for the Construction Sector](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform)*".  <br>
 ■ Designed, tested, and prototyped over 70 technology solutions, accessible on GitHub (see catalogs below). <br>
@@ -24,6 +24,7 @@ Noteworthy accomplishments: <br>
 
 Miguel has an extensive portfolio encompassing more than [60 open hardware smart PCB electronics](https://aeonsolutions.github.io/portfolio/hardware_electronics/) and over [30 open software solutions](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue), from which 6 smart hardware electronics are fully matured into comercial products sold online. [View a list of open hardware solutions ready to buy, install and use](https://aeonsolutions.github.io/products/). To learn more about open innovation using Github i invite you to read [Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D).
 
+**Scientific Research** <br>
 With [5 authored and 2 co-authored scientific publications](https://orcid.org/0000-0002-5910-5179), Miguel possesses a deep commitment to advancing knowledge. He holds a Master's degree in Smart Carbon Fiber Composites for Structural Health Monitoring, a second master degree and 79.5 ECTS in Master-level courses on Artificial Intelligence and Smart IoT devices from Swedish and Spanish universities.
 
 On his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/), you can find PDF copies of Miguel's university diplomas, course certifications, recommendation letters, and links to published scientific papers. The most recent publication, "A deep neural network for electrical resistance calibration of self-sensing carbon fiber polymer composites compatible with edge computing structural monitoring hardware electronics," is available in the Journal Structural Health Monitoring ([doi:10.1177/14759217231170001](https://journals.sagepub.com/doi/abs/10.1177/14759217231170001?journalCode=shma)). Visit my [publications page](https://aeonsolutions.github.io/publications/) to find out more about published scientific communications in peer reviewed journals.  
