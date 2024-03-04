@@ -83,7 +83,7 @@ Other noteworthy projects i've been working on, include "[NVidia's Jetson nano S
 
 <br>
 
-[![](https://dcbadge.vercel.app/api/server/HY4h6UTC) ](https://discord.gg/nYe9YMKf)
+[![](https://dcbadge.vercel.app/api/server/czYK5pXA) ](https://discord.gg/czYK5pXA)
  [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
  [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
