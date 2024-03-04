@@ -44,7 +44,11 @@ An innovative method for experimental data acquisition and management of collect
   <sup> Video 1 – 360° view of a 12-bit Smart DAQ the "S.D.A.D" </sup>
 </p>
 
-Other noteworthy projects i've been working on, include "[NVidia's Jetson nano SoM](https://github.com/aeonSolutions/AeonLabs-Jetson-Nano)" where one can find my research and prototype work for an "autonomous eCargo Bike". An "open vacuum cleaner" and an open "conversational pod". And also the "[Open Hardware Electronics for Volvo P2 platform"](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki). Currently designing an OPEN Instruments Cluster using [KiCad EDA](https://www.kicad.org). 
+### Open Hardware Electronics for Autonomous Vehicles
+The overall objective for this open project aims extending the life of vehicles by means of updating them to current EU standards namely safety regulations and emission pollutants. As so vehicles undergo a process of refurbishment service and full-featured overhaul of technology updates from mechanical key components to the interior habitacle, comfort, and safety of a vehicle. Branded Auto RFTI™ (refurbishment, facelift, and technology improvements) goes a step further to just a vehicle facelift and will differentiate by offering simple & easy hardware electronics and components for extending vehicle utilization life by means of technology upgrades to improve safety while at the same time reduce vehicle emissions. To do the design and prototype of each individual module i'm using  a Volvo P2. <br>
+Go to the project "[Open Hardware Electronics for Volvo P2 platform"](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki). Currently designing an OPEN door lock module using [KiCad EDA](https://www.kicad.org). 
+
+Other noteworthy projects i've been working on, include "[NVidia's Jetson nano SoM](https://github.com/aeonSolutions/AeonLabs-Jetson-Nano)" where one can find my research and prototype work for an "autonomous eCargo Bike". An "open vacuum cleaner" and an open "conversational pod".
 
 ### Youtube channel
 <p align="center">
