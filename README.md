@@ -17,10 +17,10 @@
 ■ Driving three digital transformations for start-up enterprises between 2007 and 2020. The most recent a "*[Digital Transformation on a Small Start-Up Enterprise: Design, Prototype, and Deployment Based on Human-Centered Design Principles for the Construction Sector](https://github.com/aeonSolutions/AeonLabs-Site-Logistics-Platform)*".  <br>
 ■ Designed, tested, and prototyped over 70 technology solutions, accessible on GitHub (see catalogs below). <br>
 ■ Specialized in smart self-sensing carbon-based composites for Structural Health Monitoring from 2005-07, 2017 and 2020-23. <br>
-&nbsp;&nbsp;- Designed & prototyped a [flexible electrode suitable for data acquisition with carbon fiber composites](https://journals.sagepub.com/doi/abs/10.1177/14759217231170001?journalCode=shma) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Designed & prototyped a [flexible electrode suitable for data acquisition with carbon fiber composites](https://journals.sagepub.com/doi/abs/10.1177/14759217231170001?journalCode=shma) <br>
 ■ Successfully designed & prototyped the following automotive solutions: <br>
-&nbsp;&nbsp;- Common injection rail for LPG systems (2014-2016). <br>
-&nbsp;&nbsp;- [Open electronics for vehicles](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki/ECU) with a combustion engine, for instance, an open engine management system. (2023 - ) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Common injection rail for LPG systems (2014-2016). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- [Open electronics for vehicles](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki/ECU) with a combustion engine, for instance, an open engine management system. (2023 - ) <br>
 
 **Open Innovation** <br>
 &nbsp;&nbsp; Miguel has an extensive portfolio encompassing more than [70 open hardware smart PCB electronics](https://aeonsolutions.github.io/portfolio/hardware_electronics/) and over [30 open software solutions](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue), from which 11 smart hardware electronics are fully matured into commercial products sold online. [View a list of open hardware solutions ready to buy, install and use](https://aeonsolutions.github.io/products/). To learn more about open innovation using Github I invite you to read the article "[Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)". To see how a **business plan** can happen on a "data repository" [click here](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki).
