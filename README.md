@@ -22,6 +22,7 @@ He has a 5-year bachelor's in civil engineering. A 2yr master in smart carbon fi
 &nbsp;&nbsp;- Common injection rail for LPG systems (2014-2016). <br>
 &nbsp;&nbsp;- [Open electronics for vehicles](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki/ECU) with a combustion engine, for instance, an open engine management system. (2023 - ) <br>
 
+**Open Innovation** <br>
 Miguel has an extensive portfolio encompassing more than [70 open hardware smart PCB electronics](https://aeonsolutions.github.io/portfolio/hardware_electronics/) and over [30 open software solutions](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue), from which 11 smart hardware electronics are fully matured into commercial products sold online. [View a list of open hardware solutions ready to buy, install and use](https://aeonsolutions.github.io/products/). To learn more about open innovation using Github I invite you to read the article "[Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)". To see how a **business plan** can happen on a "data repository" [click here](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki).
 
 **Scientific Research** <br>
