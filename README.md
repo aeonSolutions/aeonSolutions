@@ -41,7 +41,7 @@ For HR and business inquiries, send an email to mtpsilva@gmail.com, alternativel
 #
 
 ### S.D.A.D - Smart Data Acquisition Device
-An innovative method for experimental data acquisition and management of collected data in real-time and is compatible with any open environment. The proposed prototype for a smart DAQ device has the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository hosted remotely. For instance a [Dataverse](https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse) or [Zenodo](https://zenodo.org). Titled "[*Validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain‐like Fingerprint ID to a Data Repository*](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki/Validation-of-Experimental-Data-Origins:-A-Swarm-of-DAQ-devices-able-to-Deliver-Unique-Experimental-Data-using-Blockchain‐like-Fingerprint-ID-to-a-Data-Repository)". Visit my [open science projects](https://github.com/aeonSolutions/Open-Scientific-Research) to find out more about my ongoing scientific work.
+An innovative method for experimental data acquisition and management of collected data in real-time and is compatible with any open environment. The proposed prototype for a smart DAQ device has the minimum hardware characteristics to handle data measurements collected from sensors locally connected to it, store it on a local CSV or SQLite database file, and finally connect and synchronize data measurements collected with a data repository hosted remotely. For instance a [Dataverse](https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse) or [Zenodo](https://zenodo.org). Titled "[*Validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain‐like Fingerprint ID to a Data Repository*](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki/Validation-of-Experimental-Data-Origins:-A-Swarm-of-DAQ-devices-able-to-Deliver-Unique-Experimental-Data-using-Blockchain‐like-Fingerprint-ID-to-a-Data-Repository)". Visit my [open science projects](https://github.com/aeonSolutions/Open-Scientific-Research) to find out more about his ongoing scientific works.
 
 <p align="center">
    <a href="https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki">
@@ -53,9 +53,15 @@ An innovative method for experimental data acquisition and management of collect
 
 ### Open Hardware Electronics for Autonomous Vehicles
 The overall objective of this open project is to extend the life of vehicles by updating them to current EU standards namely safety regulations and emission pollutants. As so vehicles undergo a process of refurbishment service and full-featured overhaul of technology updates from mechanical key components to the interior habitacle, comfort, and safety of a vehicle. Branded Auto RFTI™ (refurbishment, facelift, and technology improvements) goes a step further than just a vehicle facelift and will differentiate by offering simple & easy hardware electronics and components for extending vehicle utilization life by means of technology upgrades to improve safety while at the same time reduce vehicle emissions. To do the design and prototype of each individual module I'm using  a Volvo P2. <br>
-Go to the project "[Open Hardware Electronics for Volvo P2 platform"](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki). Currently designing an OPEN door lock module using [KiCad EDA](https://www.kicad.org). 
 
-Other noteworthy projects I've been working on, include "[NVidia's Jetson nano SoM](https://github.com/aeonSolutions/AeonLabs-Jetson-Nano)" where one can find my research and prototype work for an "autonomous eCargo Bike". An "open vacuum cleaner" and an open "conversational pod".
+<div align="center">
+
+***"Still.... even if it is not easily possible ...it will definitely going to be AWESOME running a [old] car <br> that will meet the latest EURO emissions except on the pink slip"*** <br>
+<sup> <a href="https://discordapp.com/channels/879495735912071269/937480820594208808/1203010918833721446">Discord Server of Speeduino 02-02-2024 </a> </sup>
+</div>
+
+To learn more, go to the project "[Open Hardware Electronics for Volvo P2 platform"](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki). Currently designing an OPEN Rear Electronic Module using [KiCad EDA](https://www.kicad.org). 
+Other noteworthy projects He has been working on, include "[NVidia's Jetson nano SoM](https://github.com/aeonSolutions/AeonLabs-Jetson-Nano)" where one can find research and prototype work for an "autonomous eCargo Bike"; an "open vacuum cleaner" and an open "conversational pod".
 
 ### Youtube channel
 <p align="center">
