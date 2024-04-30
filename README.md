@@ -28,7 +28,9 @@
 **Scientific Research** <br>
 &nbsp;&nbsp; Miguel possesses a deep commitment to advancing knowledge for everyone. He is the author of [5 scientific publications and co-authors 2](https://orcid.org/0000-0002-5910-5179), He holds a Master's degree in Smart Carbon Fiber Composites for Structural Health Monitoring, a second master's degree, and 79.5 ECTS in Master-level courses on Artificial Intelligence and Smart IoT devices from Swedish and Spanish universities. The most recent publication, "A deep neural network for electrical resistance calibration of self-sensing carbon fiber polymer composites compatible with Edge computing Structural monitoring hardware electronics," is available in the Journal Structural Health Monitoring ([doi:10.1177/14759217231170001](https://journals.sagepub.com/doi/abs/10.1177/14759217231170001?journalCode=shma)). Visit his [publications page](https://aeonsolutions.github.io/publications/) to find out more about published scientific communications in peer-reviewed journals.  
 
-■ Invited to peer-review 37 times on 33 manuscripts
+■ Invited to peer-review [37 times on 33 manuscripts](https://www.webofscience.com/wos/author/record/AAZ-9463-2021). [Two are now published](https://aeonsolutions.github.io/publications/peer_reviews.html) in Journals of their fields of knowledge. 
+
+<br>
 
 On his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/), you can find PDF copies of Miguel's university diplomas, course certifications, recommendation letters, and links to published scientific papers.
 
