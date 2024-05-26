@@ -38,7 +38,7 @@ On his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/), you can fin
 
 Miguel is eager to leverage his expertise, drive innovation, and contribute to technological advancements. <br>
 Thank you for considering him in your search. <br>
-For HR and business inquiries, send an email to mtpsilva@gmail.com, alternatively, click next to [schedule an online meeting](https://calendar.app.google/95o4Y6yT8FztrA6p6).
+**For HR and business inquiries**, send an email to mtpsilva@gmail.com, alternatively, click next to [schedule an online meeting](https://calendar.app.google/95o4Y6yT8FztrA6p6).
 
 #
 
