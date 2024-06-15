@@ -116,4 +116,8 @@ Other noteworthy projects He has been working on, include "[NVidia's Jetson nano
 
 [AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototype of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). See [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire AeonLabs.
 
+### License
+
+Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
+
 </div>
