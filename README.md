@@ -9,7 +9,7 @@
 
 <p align="center">
    <a href="https://stackexchange.com/users/18907312/miguel-silva"><img src="https://stackexchange.com/users/flair/18907312.png" width="208" height="58" alt=" profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp; A sites" title=" profile for Miguel Silva on Stack Exchange, a network of free, community-driven Q&amp; A sites" /></a> <br>
-  <sup>Figure 1 - Stack Overflow Participation Statistics</sup>
+  <sup>Figure 1 - Participation Statistics on Stack Overflow</sup>
 </p>
 
 **Noteworthy accomplishments** <br>
