@@ -115,7 +115,7 @@ Other noteworthy projects He has been working on, include "[NVidia's Jetson nano
 </a>
 
 **For Students** <br>
-If you're a student starting a college or a university degree I strongly recommend and advise learning all about data repositorires and also all about timeline history of records. I also strongly advise to start publishing on Twitter and LinkedIn since day one at school every thing, every insignificant task and work has value so make sure others now it too ! Be AGILE publish photos and videos , show errors and mistakesvand how you solved them later, with more photos, videos and comments .
+If you're a student starting a college or a university degree I strongly recommend, and advise, learning all about data repositories and also all about "timeline history of records". For instance use Twitter and LinkedIn and start publishing, since day one at school, about everything. Every insignificant task and work has value, so make sure others now it too! Be AGILE publish photos and videos, show errors and mistakes, and how you solved them later, with more photos,videos and comments. This way, when you finally get you degree and diploma , you will have a authentic, trustworthy, professional curriculum that can be used to advertise your skills. When looking for a job. When starting up your own entrepreneurial business and enterprise. 
 
 <br>
 
