@@ -118,6 +118,7 @@ If you're a student starting a college or a university degree I strongly recomme
 
 <br>
 
+**About AeonLabs** <br>
 [AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototype of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). See [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire AeonLabs.
 
 ### License
