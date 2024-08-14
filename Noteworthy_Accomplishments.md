@@ -16,7 +16,7 @@
 ■ Driving three digital transformations for start-up enterprises between 2007 and 2020. The most recent a "*[Digital Transformation on a Small Start-Up Enterprise: Design, Prototype, and Deployment Based on Human-Centered Design Principles for the Construction Sector](https://aeonsolutions.github.io/publications/human-centered-logistics-construction/)*".  <br>
 <br>
 ■ Designed, tested, and prototyped over 70 technology solutions, accessible on GitHub. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;-  over [80 open hardware electronics](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue/blob/main/list_of_open_source_code_software.md) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;-  over [80 open hardware electronics](https://aeonsolutions.github.io/portfolio/hardware_electronics/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;-  over [30 open source code software solutions](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue/blob/main/list_of_open_source_code_software.md) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;-  from which [16 smart hardware electronics fully matured](https://aeonsolutions.github.io/products/) into commercial products sold online <br>
 <br>
