@@ -41,7 +41,27 @@ To learn more about open innovation using Github you are invited to read the art
 
 <br>
 
- ### How to startup your business
+### Do It Yourself 
+- What is DIY
+- How to do DIY
+- The very first DIY Concept 
+- The Design Phase
+- The Fabrication Phase
+- The Testing Phase
+- When my DIY is a Minimum viable Product (MVP)
+     
+<br>
+
+### pre-startup business
+- Sell your first DIY product
+- Advertising and Marketing a DIY product 
+  - The Marketing Plan
+  - The Sales Plan 
+- How to build a community
+- Constant stream of clients
+  - how to open a business activity that is not yet a business nor an enterprise  
+ 
+### How to startup your business
  - ToDo: [DIY to Startup Business](https://github.com/aeonSolutions/aeonSolutions/blob/main/DIY-to-Startup-Business.md)
  - [The startup financing programs]()
 
