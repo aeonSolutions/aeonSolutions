@@ -1,4 +1,4 @@
-[Back to Miguel Tomas's Resume](https://github.com/aeonSolutions/aeonSolutions)   >>  Open Innovatuion Book Index
+Navigation: [Back to Miguel Tomas's Resume](https://github.com/aeonSolutions/aeonSolutions)   >>  Open Innovatuion Book Index
 
 <div align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/aeonSolutions/blob/main/open-innovation-book-index.md?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
