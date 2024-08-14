@@ -49,7 +49,7 @@ To learn more about open innovation using Github you are invited to read the art
 ### Pre-Startup Business
 - Financing your DIY projects
   - Donations
-  - Sponsorships
+  - Sponsorships & sponsorware
 - Advertising and Marketing a DIY product 
   - The Marketing Plan
   - The Sales Plan 
