@@ -60,6 +60,6 @@ To learn more about open innovation using Github you are invited to read the art
 ### How to Startup Your Business
  - ToDo: [DIY to Startup Business](https://github.com/aeonSolutions/aeonSolutions/blob/main/DIY-to-Startup-Business.md)
  - The startup financing programs
-   - when you are unemployed
+   - [when you are unemployed](https://github.com/aeonSolutions/aeonSolutions/blob/main/startup_financing_programs_for_the_unemployed.md)
     
 </div>
