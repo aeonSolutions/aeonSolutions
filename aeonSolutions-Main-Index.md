@@ -82,6 +82,15 @@ https://aeonsolutions.github.io/research/
 
 <br>
 
+**Official Profiles Online** <br>
+Below is a list of my Official profiles online on other platforms and websites I use during my workday and work activity.
+- LinkedOm : https://www.linkedin.com/in/migueltomas/
+- Twitter : https://twitter.com/AeonlabsS
+- Stack Exchange / stack Overflow: https://stackoverflow.com/users/13794189/miguel-tomás
+- YouTube : https://www.youtube.com/@aeonlabs2751
+  
+<br>
+
 **For Students** <br>
 If you're a student starting a college or a university degree I strongly recommend, and advise, to learn all about data repositories, such as GitHub, and also all about "a timeline history of records". For instance use Twitter, LinkedIn, and YouTube and start publishing, since day one at school, about everything. Every insignificant task and work has value, so make sure others know it too! Be AGILE publish photos and videos, show errors and mistakes, and how you solved them later, with more photos, videos, and comments. This way, when you finally get your degree and diploma, you will have an authentic, trustworthy, professional curriculum that can be used to advertise your skills. When looking for a job. When starting up your own entrepreneurial business and enterprise. 
 
