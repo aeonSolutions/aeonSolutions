@@ -26,5 +26,17 @@ Last update 14-08-2024
 # Startup Financing Programs 
 *for the Unemployed*
  <br>
+
+<br>
+
+### Belgium
+
+<br>
+
+### Portugal
+
+<br>
+
+</div>
  
 </div>
