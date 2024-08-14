@@ -38,14 +38,20 @@ Fulfilling this future will significantly lower the cost of ubiquitous smart dev
 
 I am also eager to expand my research to new application domains, extending from homes to hospitals, farms, factories, and beyond, where smart sense technologies are crucial in applications such as sleep monitoring, digital agriculture, and equipment maintenance. I am equally excited about research fields including digital healthcare, accessibility, K-12 education, 3D robotics for construction automation, and end-user programming, where I believe my expertise in materials with sensing properties will fuel new collaborations. Additionally, I am interested in using my research to promote open environments. Open Data. Open Source. Open Hardware; as foundation to applied science. 
 
-***References***
-[1]	J.O. Carneiro, S. Jalali, V. Teixeira, M. Tomás, “The Effect of Concrete Strength and Reinforcement on Toughness of Reinforced Concrete Beams”, Published in the Journal “Construction and Building Materials”, Volume 19, Issue 7, September 2005, Pages 493-499 - http://dx.doi.org/10.1016/j.conbuildmat.2005.01.008 <br>
-[2]	J.O. Carneiro, F J Q de Melo, S Jalali, V. Teixeira, M. Tomás, “The use of Pseudo-Dynamic Method in the evaluation of damping characteristics in reinforced concrete beams having variable bending stiffness” published in the journal “Mechanics Research Communications” Volume 33, September 2006, pages 601-613. http://dx.doi.org/10.1016/j.mechrescom.2005.05.010 <br>
-[3]	Miguel Tomás, Said Jalali, “Piezoresistivity in Micro Carbon Fiber Silicone Composites for Electrical Resistance to Strain Sensing” published in the journal 'Advanced Engineering Forum' Volume 23, July 2017, pages 45-55. https://doi.org/10.4028/www.scientific.net/AEF.23.45 <br>
-[4]	Miguel Tomás, Said Jalali, Alexandre Silva de Vargas, “Creep evaluation and temperature dependence in self-sensing micro carbon polymer-based composites for further development as an Internet of Things Sensor device” published in the Journal of Composite Materials, December 2021, pages https://doi.org/10.1177/00219983211058805 <br>
-[5]	Miguel Tomás, “Real-Time Logistics of Construction Sites: Study of a Technology Transformation at a Small Start-Up Enterprise in Belgium”, submitted to the International Journal of Construction Supply Chain Management, June 2021 <br>
-[6]	Miguel Tomás, “A Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites on Edge Computing Monitoring Solutions” (submitted for publication to the Journal Carbon Trends, July 2021) <br>
-[7]	Miguel Tomás, “Neuromorphic Neural Networks for Image Feature Extraction on Edge Computing Environments”, (Currently writing for Master's thesis in A.I.) <br>
+***References*** <br>
+[1]	J.O. Carneiro, S. Jalali, V. Teixeira, M. Tomás, “The Effect of Concrete Strength and Reinforcement on Toughness of Reinforced Concrete Beams”, Published in the Journal “Construction and Building Materials”, Volume 19, Issue 7, September 2005, Pages 493-499 - http://dx.doi.org/10.1016/j.conbuildmat.2005.01.008 
+
+[2]	J.O. Carneiro, F J Q de Melo, S Jalali, V. Teixeira, M. Tomás, “The use of Pseudo-Dynamic Method in the evaluation of damping characteristics in reinforced concrete beams having variable bending stiffness” published in the journal “Mechanics Research Communications” Volume 33, September 2006, pages 601-613. http://dx.doi.org/10.1016/j.mechrescom.2005.05.010
+
+[3]	Miguel Tomás, Said Jalali, “Piezoresistivity in Micro Carbon Fiber Silicone Composites for Electrical Resistance to Strain Sensing” published in the journal 'Advanced Engineering Forum' Volume 23, July 2017, pages 45-55. https://doi.org/10.4028/www.scientific.net/AEF.23.45
+
+[4]	Miguel Tomás, Said Jalali, Alexandre Silva de Vargas, “Creep evaluation and temperature dependence in self-sensing micro carbon polymer-based composites for further development as an Internet of Things Sensor device” published in the Journal of Composite Materials, December 2021, pages https://doi.org/10.1177/00219983211058805
+
+[5]	Miguel Tomás, “Real-Time Logistics of Construction Sites: Study of a Technology Transformation at a Small Start-Up Enterprise in Belgium”, submitted to the International Journal of Construction Supply Chain Management, June 2021 
+
+[6]	Miguel Tomás, “A Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites on Edge Computing Monitoring Solutions” (submitted for publication to the Journal Carbon Trends, July 2021) 
+
+[7]	Miguel Tomás, “Neuromorphic Neural Networks for Image Feature Extraction on Edge Computing Environments”, (Currently writing for Master's thesis in A.I.) 
 
 
 </div>
