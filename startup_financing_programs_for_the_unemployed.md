@@ -29,7 +29,9 @@ Last update 14-08-2024
 
 <br>
 
-### Belgium
+## Belgium
+
+<br>
 
 **useful links** *(in Dutch, French)* <br>
 - [VLAIO - Flanders innovation & entrepreneurship](https://www.vlaio.be/en)
@@ -38,7 +40,9 @@ Last update 14-08-2024
   
 <br>
 
-### Portugal
+## Portugal
+
+<br>
 
 **useful links** *(in Portuguese)* <br>
 - [I.E.F.P. Entrepreneurship webpage](https://www.iefp.pt/empreendedorismo)
