@@ -83,21 +83,22 @@ https://aeonsolutions.github.io/research/
 <br>
 
 ### Official Profiles Online
-Below is a list of ALL my Official profiles online on other platforms and websites I use during my workday and work activity.
+Below is a list of ALL my Official profiles online on other platforms and websites I use during my workday and work activity. <br>
+<sup>Any other I ask not to include in your search. Thank you.</sup> <br>
 
-**GitHub (Open Innovation)**
+**My Open Innovation**
 - GitHub : https://github.com/aeonSolutions
 - Stack Exchange / stack Overflow: https://stackoverflow.com/users/13794189/miguel-tomás
 
 
-**My scientific research projects**  <br>
+**My Open Scientific Research Projects**  <br>
 - [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [     <img
         src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
         style="width: 1em; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/> ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
-- xperimental Data  Repository ( Dataverse) : https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse
+- Experimental Data  Repository ( Dataverse) : https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse
 
-**Social Media** <br>
+**My Social Media** <br>
 - Twitter: https://twitter.com/AeonlabsS
 - LinkedIn : https://www.linkedin.com/in/migueltomas/​
 - YouTube channel with LIVE videos of me programming: https://www.youtube.com/@aeonlabs2751
