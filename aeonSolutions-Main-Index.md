@@ -53,7 +53,7 @@ https://aeonsolutions.github.io/research/
 This is the main page for all my open-source code and software apps to date with over 30 software solutions programmed by myself in many computer languages.
 
 Go to my Main Repository for open Source Code  <br>
-https://github.com/aeonSolutions/aeonlabs-open-software-catalogue
+https://github.com/aeonSolutions/aeonlabs-open-software-catalogue <br>
 alternatively, if you prefer browsing it as a webpage <br>
 https://aeonsolutions.github.io/research/
 
@@ -63,7 +63,7 @@ https://aeonsolutions.github.io/research/
 This is the main page for all the open hardware electronics I designed and prototyped by myself using [KiCad EDA](https://www.kicad.org/), There are over **80** hardware electronics projects for smart devices, A.I. enabled,  and ready to download, order fabrication at a PCB factory or buy them on my DIY store. 
 
 Go to my Main Repository for Open Hardware Electronics
-https://github.com/aeonSolutions/PCB-Prototyping-Catalogue
+https://github.com/aeonSolutions/PCB-Prototyping-Catalogue <br>
 alternatively, if you prefer browsing it as a webpage <br>
 https://aeonsolutions.github.io/research/
 
