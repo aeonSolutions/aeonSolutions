@@ -38,6 +38,8 @@ Fulfilling this future will significantly lower the cost of ubiquitous smart dev
 
 I am also eager to expand my research to new application domains, extending from homes to hospitals, farms, factories, and beyond, where smart sense technologies are crucial in applications such as sleep monitoring, digital agriculture, and equipment maintenance. I am equally excited about research fields including digital healthcare, accessibility, K-12 education, 3D robotics for construction automation, and end-user programming, where I believe my expertise in materials with sensing properties will fuel new collaborations. Additionally, I am interested in using my research to promote open environments. Open Data. Open Source. Open Hardware; as foundation to applied science. 
 
+<br>
+
 ***References*** <br>
 [1]	J.O. Carneiro, S. Jalali, V. Teixeira, M. Tomás, “The Effect of Concrete Strength and Reinforcement on Toughness of Reinforced Concrete Beams”, Published in the Journal “Construction and Building Materials”, Volume 19, Issue 7, September 2005, Pages 493-499 - http://dx.doi.org/10.1016/j.conbuildmat.2005.01.008 
 
