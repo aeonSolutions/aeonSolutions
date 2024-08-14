@@ -59,7 +59,7 @@ To learn more about open innovation using Github you are invited to read the art
 - Constant stream of users and future clients
   - how to open a business activity that is not yet a business nor an enterprise  
  
-### How to Startup Your Business <sup>when you're unemployed</sup> 
+### How to Startup Your Business <sub>when you're unemployed</sub> 
 - [Financing programs for entrepreneurs](https://github.com/aeonSolutions/aeonSolutions/blob/main/startup_financing_programs_for_the_unemployed.md)
 - Crowdfunding
 - Safe Notes
