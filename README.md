@@ -8,7 +8,7 @@
 <sup> Last update 14-08-2024 </sup>
 </div>
 
-<sup> **Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions)  >>  Miguel Tomas Silva Résumé </sup>
+<sup> **Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >>  Miguel Tomas Silva Résumé </sup>
 
 &nbsp;&nbsp; Miguel, an experienced professional in scientific research and smart technology solutions, adeptly combines hardware and software expertise, with a track record of successful remote team management spanning four years. Since 2018, Miguel moderated Slack, WhatsApp, and LinkedIn groups, where he provided valuable advice and mentorship to individuals and organizations. His most recent achievement can be found here, on his GitHub profile with more than 200 repositories spanning more than 10 years, complemented with conventional, [easy to navigate, and intuitive  webpages](https://aeonsolutions.github.io) about open scientific research, open prototyping, and open innovation from a simple concept in a doodle to a fully matured [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product). In 2021 he moved, permanently, all his scientific research data to publicly accessible repositories stored as [dataverses hosted on the servers at Harvard University](https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse).
 
