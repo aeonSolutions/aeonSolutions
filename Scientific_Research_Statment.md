@@ -38,6 +38,10 @@ Fulfilling this future will significantly lower the cost of ubiquitous smart dev
 
 &nbsp;&nbsp;&nbsp; I am also eager to expand my research to new application domains, extending from homes to hospitals, farms, factories, and beyond, where smart sense technologies are crucial in applications such as sleep monitoring, digital agriculture, and equipment maintenance. I am equally excited about research fields including digital healthcare, accessibility, A.I. on education, 3D robotics for construction automation, and end-user programming, where I believe my expertise in materials with sensing properties will fuel new collaborations. Additionally, I am interested in using my research to promote open environments. Open Data. Open Source. Open Hardware; as foundation to applied science. 
 
+<p align="center">
+  <img height="70" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/mtpsilva_signature.png">
+</p>
+
 <br>
 
 ***References*** <br>
