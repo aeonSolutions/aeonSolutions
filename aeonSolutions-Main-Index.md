@@ -90,9 +90,12 @@ Below is a list of ALL my Official profiles online on other platforms and websit
 - Stack Exchange / stack Overflow: https://stackoverflow.com/users/13794189/miguel-tomás
 
 
-**My scientific research projects** 
-- ORCID ​/ Scopus: https://orcid.org/0000-0002-5910-5179​
-- My Experimental Data  Repository ( Dataverse) : https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse
+**My scientific research projects**  <br>
+- [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/> ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
+- xperimental Data  Repository ( Dataverse) : https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse
 
 **Social Media** <br>
 - Twitter: https://twitter.com/AeonlabsS
