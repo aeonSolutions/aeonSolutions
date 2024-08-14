@@ -33,8 +33,6 @@ Visit the [publications page](https://aeonsolutions.github.io/publications/) to 
 ### <img height="18px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lztozx5fhr486ojv78ol" /> Open Innovation
 &nbsp;&nbsp; I have an extensive portfolio encompassing more than [70 open hardware smart PCB electronics](https://aeonsolutions.github.io/portfolio/hardware_electronics/) and over [30 open software solutions](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue), from which [16 smart hardware electronics fully matured](https://aeonsolutions.github.io/products/) into commercial products sold online. 
 
-To learn more about open innovation using Github you are invited to read the article "[Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)". To see how  *the entrepreneur path* can happen on a "data repository" [click here](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki).
-
 #### Open Innovation Index
 - [From Do It Yourself to a Startup Business](https://github.com/aeonSolutions/aeonSolutions/blob/main/open-innovation-book-index.md) 
 
