@@ -57,7 +57,10 @@ To learn more about open innovation using Github you are invited to read the art
   - how to open a business activity that is not yet a business nor an enterprise  
  
 ### How to Startup Your Business
- - The startup financing programs
+ - Financing programs for entrepreneurs
    - [when you are unemployed](https://github.com/aeonSolutions/aeonSolutions/blob/main/startup_financing_programs_for_the_unemployed.md)
-    
+- Crowdfunding
+- Safe Notes
+- Conventional Bank Loans
+
 </div>
