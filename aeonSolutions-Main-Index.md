@@ -107,13 +107,13 @@ Below is a list of ALL my *official profiles online* on other platforms and webs
 - Discord : https://discord.gg/hw3j3RwfJf
 - Hackster.io : https://www.hackster.io/mtpsilva
 
-**How to contact me** <br>
+**How to Contact me** <br>
 - WhatsApp +32 471 632 520
 - Telegram : + 32 471 632 520
 - Email: mtpsilva@gmail.com
 - Zoom / Google Meet / MS Teams
 
-Before making any kind of call (voice , video), send me a simple message to check my schedule and availability. Thank you. 
+Before making any kind of call (voice, video), send me a simple message to check my schedule and availability. Thank you. 
 
 <br>
 
