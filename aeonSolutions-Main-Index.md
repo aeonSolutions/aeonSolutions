@@ -13,7 +13,7 @@
 ## About Miguel Tomas
 Miguel Tomas was born in Porto City, Portugal. Started programming computer code on a Commodore 64 with only 11 years old. 
 
-I invite you, to browse this document, and visit the web address links, where you can, for instance, download certifications and read about scientific publications, and technology articles, or even view presentation videos on my YouTube channel, some about software solutions deployed at enterprises. You will also find valued time reading my daily tweets about simple technology idea fragments I encounter during my workday.
+I invite you, to fully browse  his repositories here on Github, and visit the web address links, where you can, for instance, source code for software, designs for hardware electronics, download certifications & diplomas, read about scientific publications and articles about technology, and even view presentation videos his YouTube channel, about technology and software & hardware electronics solutions deployed at enterprises. You will also find valued time reading my daily tweets about simple technology idea fragments he encountered during his workday.
 
 <p align="center">
   <img height="70" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/mtpsilva_signature.png">
