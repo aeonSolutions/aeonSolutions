@@ -18,20 +18,24 @@ I invite you, to browse this document, and visit the web address links, where yo
 <p align="center">
   <img height="70" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/mtpsilva_signature.png">
 </p>
- 
+
+Visit the [publications page](https://aeonsolutions.github.io/publications/) to find out more about published scientific communications in peer-reviewed journals.  On his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/), you can find PDF copies of Miguel's university diplomas, course certifications, recommendation letters, and much more.
+
 ## Index
 ###  <img height="18px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lqw5g7r0wqexb3akm3sl" /> Résumé
 - [Miguel Tomas Silva Résumé](https://github.com/aeonSolutions)
 
 <br>
 
-### From Do It Yourself to a Startup Business
+### Open Innovation
+&nbsp;&nbsp; Miguel has an extensive portfolio encompassing more than [70 open hardware smart PCB electronics](https://aeonsolutions.github.io/portfolio/hardware_electronics/) and over [30 open software solutions](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue), from which [16 smart hardware electronics fully matured](https://aeonsolutions.github.io/products/) into commercial products sold online. To learn more about open innovation using Github you are invited to read the article "[Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)". To see how a **business plan** can happen on a "data repository" [click here](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki).
+
 - [From Do It Yourself to a Startup Business](https://github.com/aeonSolutions/aeonSolutions/blob/main/open-innovation-book-index.md) 
 
 <br>
 
 ### <img height="18px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lg7xdm3wvd3237y06ujl" /> Open Scientific Research
-Open science is a transformative approach to research and knowledge dissemination that emphasizes transparency, collaboration, and accessibility. It encourages scientists and researchers to make their work, including data, methodologies, and findings, openly available to the public and the global scientific community. This not only fosters greater trust in the scientific process but also accelerates the pace of discovery by enabling others to build upon and validate existing research. Open science promotes interdisciplinary collaboration and reduces duplication of efforts, ultimately leading to more robust and reproducible scientific results. By breaking down barriers to access, open science democratizes knowledge, making it available to a wider audience, thus benefiting society as a whole. It represents a significant shift in the way science is conducted and shared, ushering in an era of more inclusive and accountable research. <sub>(*source: chat.openai.com*)</sub>
+&nbsp;&nbsp; Miguel possesses a deep commitment to advancing knowledge for everyone. He is the author of [5 scientific publications and co-authors 2](https://orcid.org/0000-0002-5910-5179), He holds a Master's degree in Smart Carbon Fiber Composites for Structural Health Monitoring, a second master's degree, and 82.5 ECTS in Master-level courses on Artificial Intelligence and Smart IoT Technologies from Swedish and Spanish universities. The most recent publication, "A deep neural network for electrical resistance calibration of self-sensing carbon fiber polymer composites compatible with Edge computing Structural monitoring hardware electronics," is available in the Journal Structural Health Monitoring ([doi:10.1177/14759217231170001](https://journals.sagepub.com/doi/abs/10.1177/14759217231170001?journalCode=shma)). 
 
 <div align="center">
  
