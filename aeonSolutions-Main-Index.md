@@ -41,7 +41,7 @@ Open science is a transformative approach to research and knowledge disseminatio
         alt="ORCID iD icon"/> ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
 </div>
 
-Go to my Main Open Scientific Research Repository <br>
+Go to my Main Repository for Open Scientific Research <br>
 https://github.com/aeonSolutions/Open-Scientific-Research <br>
 alternatively, if you prefer browsing it as a webpage <br>
 https://aeonsolutions.github.io/research/
@@ -52,15 +52,19 @@ https://aeonsolutions.github.io/research/
 ### <img height="18px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lgeu3mh7autbw0q1rjhl" /> Open Source Code 
 This is the main page for all my open-source code and software apps to date with over 30 software solutions programmed by myself in many computer languages.
 
-Go to my open Source Code Page  <br>
+Go to my Main Repository for open Source Code  <br>
 https://github.com/aeonSolutions/aeonlabs-open-software-catalogue
+alternatively, if you prefer browsing it as a webpage <br>
+https://aeonsolutions.github.io/research/
 
 <br>
 
 ### <img height="18px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l5m5z1845s10s47cuyl5" /> Open Hardware Electronics
 This is the main page for all the open hardware electronics I designed and prototyped by myself using [KiCad EDA](https://www.kicad.org/), There are over **80** hardware electronics projects for smart devices, A.I. enabled,  and ready to download, order fabrication at a PCB factory or buy them on my DIY store. 
 
-Go to my Open Hardware Electronics Page
+Go to my Main Repository for Open Hardware Electronics
 https://github.com/aeonSolutions/PCB-Prototyping-Catalogue
+alternatively, if you prefer browsing it as a webpage <br>
+https://aeonsolutions.github.io/research/
 
 </div>
