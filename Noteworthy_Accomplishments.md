@@ -23,10 +23,9 @@
 ■ Specialized in smart self-sensing carbon-based composites for Structural Health Monitoring from 2005-07, 2017 and 2020-23. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Designed & prototyped a [flexible electrode suitable for data acquisition with carbon fiber composites](https://journals.sagepub.com/doi/abs/10.1177/14759217231170001?journalCode=shma) <br>
 <br>
-■ Successfully designed & prototyped the following automotive solutions: <br>
-<br>
+■ Successfully designed & prototyped more than 7 open solutions for the automotive sector: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Common injection rail for LPG systems (2014-2016). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- [Open electronics for vehicles](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki/ECU) with a combustion engine, for instance, an open engine management system. (2023 - ) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- [Open electronics for vehicles](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki/ECU) with a combustion engine <br>
 
 
 
