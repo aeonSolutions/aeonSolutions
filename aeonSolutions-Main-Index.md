@@ -15,11 +15,27 @@ Miguel Tomas was born in Porto City, Portugal. Started programming computer code
 ... 
  
 ## Index
+### Résumé
 - [Miguel Tomas Silva Résumé](https://github.com/aeonSolutions)
 
 <br>
 
-# From Do It Yourself to a Startup Business
+### From Do It Yourself to a Startup Business
 - [From Do It Yourself to a Startup Business](https://github.com/aeonSolutions/aeonSolutions/blob/main/open-innovation-book-index.md) 
+
+<br>
+
+### Open Scientific Research
+-[Open Scientific Research](https://github.com/aeonSolutions/Open-Scientific-Research)
+
+<br>
+
+### Open Source Code
+-[Open source Code](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)
+
+<br>
+
+### Open Hardware Electronics
+-[Open Hardware Electronics](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
 
 </div>
