@@ -37,7 +37,6 @@ To learn more about open innovation using Github you are invited to read the art
 ## Index
 ### Open Innovation
 - ToDo: [Open Innovation](https://github.com/aeonSolutions/aeonSolutions/blob/main/open-innovation.md)
-- [Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)
 
 ### Do It Yourself 
 - What is DIY
@@ -46,10 +45,11 @@ To learn more about open innovation using Github you are invited to read the art
 - The Design Phase
 - The Fabrication Phase
 - The Testing Phase
-- When my DIY is a Minimum viable Product (MVP)
+- [Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)
 
 ### Pre-Startup Business
 - Selling your very first DIY product
+- When my DIY is a Minimum viable Product (MVP)
 - Advertising and Marketing a DIY product 
   - The Marketing Plan
   - The Sales Plan 
