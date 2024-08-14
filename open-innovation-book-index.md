@@ -47,6 +47,8 @@ To learn more about open innovation using Github you are invited to read the art
 - [Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)
 
 ### Pre-Startup Business
+- Create your personal Brand
+- Types of open Licences
 - Financing your DIY projects
   - Donations
   - Sponsorships & sponsorware
