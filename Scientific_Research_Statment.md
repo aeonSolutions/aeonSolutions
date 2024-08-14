@@ -11,6 +11,7 @@
 <div align="justify">
 
 # Miguel Tomás | Research Statement
+*draft document*
 
 My research interest is in development of artificial intelligence (AI) technologies with a focus on custom electronics for smart devices and smart technologies. Smart electronics technologies are critical in many applications as a way to promote and facilitate equal and diverse opportunities regardless of economic or social status. To achieve such reality at the core needs to be open source and open data methodologies and solutions as base for further development and broader compatibility across ecosystems. For instance, in everyday objects, one rarely notices that they are there, aware of environmental and structural conditions collecting data for identification of potential hazards and even reduced quality of life conditions. My research on A.I. smart technologies focus and is always present open source and open data, and this way I know am contributing to knowledge base solutions in society available to anyone, regardless of race, or culture at a fair cost (Figures 1,2,3). This effort has led to 10 international-level publications and 15 M.V.P. limited open-licensed prototypes. There are three key approaches I have pursued:
 1.	Focus on real-time, live environments, for concept solutions and prototypes using as base ground open data and open source for conceptualization, design, and prototyping;
