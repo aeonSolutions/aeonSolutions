@@ -47,11 +47,11 @@ I am also eager to expand my research to new application domains, extending from
 
 [4]	Miguel Tomás, Said Jalali, Alexandre Silva de Vargas, “Creep evaluation and temperature dependence in self-sensing micro carbon polymer-based composites for further development as an Internet of Things Sensor device” published in the Journal of Composite Materials, December 2021, pages https://doi.org/10.1177/00219983211058805
 
-[5]	Miguel Tomás, “Real-Time Logistics of Construction Sites: Study of a Technology Transformation at a Small Start-Up Enterprise in Belgium”, submitted to the International Journal of Construction Supply Chain Management, June 2021 
+[5]	Miguel Tomás, “Real-Time Logistics of Construction Sites: Study of a Technology Transformation at a Small Start-Up Enterprise in Belgium”, preprint available on the SSRN platform, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4027801
 
-[6]	Miguel Tomás, “A Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites on Edge Computing Monitoring Solutions” (submitted for publication to the Journal Carbon Trends, July 2021) 
+[6]	Miguel Tomás, Kiera Tabatha, "A Deep Neural Network for Electrical Resistance Calibration of Self-Sensing Carbon Fiber Polymer Composites compatible with Edge Computing Structural Monitoring Hardware Electronics", J. Structural Health Monitoring (5yr Impact factor of 5.9) · Mar 26, 2023, https://doi.org/10.1177/14759217231170001
 
-[7]	Miguel Tomás, “Neuromorphic Neural Networks for Image Feature Extraction on Edge Computing Environments”, (Currently writing for Master's thesis in A.I.) 
+[7]	Miguel Tomás, “Real-time Validation of Experimental Data Origins: A Swarm of DAQ Devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository”, Currently writing it here on GitHub:  https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki
 
 
 </div>
