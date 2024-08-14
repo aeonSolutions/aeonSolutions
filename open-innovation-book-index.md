@@ -57,8 +57,9 @@ To learn more about open innovation using Github you are invited to read the art
 - Constant stream of users and future clients
   - how to open a business activity that is not yet a business nor an enterprise  
  
-### How to Startup your Business
+### How to Startup Your Business
  - ToDo: [DIY to Startup Business](https://github.com/aeonSolutions/aeonSolutions/blob/main/DIY-to-Startup-Business.md)
- - [The startup financing programs]()
-
+ - The startup financing programs
+   - when you are unemployed
+    
 </div>
