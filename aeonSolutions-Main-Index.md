@@ -83,7 +83,7 @@ https://aeonsolutions.github.io/research/
 <br>
 
 ### Official Profiles Online
-Below is a list of ALL my Official profiles online on other platforms and websites I use during my workday and work activity. <br>
+Below is a list of ALL my *official profiles online* on other platforms and websites I use during my workday and work activity. <br>
 <sup>Any other I ask not to include in your search. Thank you.</sup> <br>
 
 **My Open Innovation**
