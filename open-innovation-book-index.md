@@ -52,16 +52,16 @@ To learn more about open innovation using Github you are invited to read the art
      
 <br>
 
-### pre-startup business
+### Pre-Startup Business
 - Sell your first DIY product
 - Advertising and Marketing a DIY product 
   - The Marketing Plan
   - The Sales Plan 
 - How to build a community
-- Constant stream of clients
+- Constant stream of users and future clients
   - how to open a business activity that is not yet a business nor an enterprise  
  
-### How to startup your business
+### How to Startup your Business
  - ToDo: [DIY to Startup Business](https://github.com/aeonSolutions/aeonSolutions/blob/main/DIY-to-Startup-Business.md)
  - [The startup financing programs]()
 
