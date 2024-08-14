@@ -67,4 +67,18 @@ https://github.com/aeonSolutions/PCB-Prototyping-Catalogue <br>
 alternatively, if you prefer browsing it as a webpage <br>
 https://aeonsolutions.github.io/research/
 
+<br>
+
+**For Students** <br>
+If you're a student starting a college or a university degree I strongly recommend, and advise, to learn all about data repositories, such as GitHub, and also all about "a timeline history of records". For instance use Twitter, LinkedIn, and YouTube and start publishing, since day one at school, about everything. Every insignificant task and work has value, so make sure others know it too! Be AGILE publish photos and videos, show errors and mistakes, and how you solved them later, with more photos, videos, and comments. This way, when you finally get your degree and diploma, you will have an authentic, trustworthy, professional curriculum that can be used to advertise your skills. When looking for a job. When starting up your own entrepreneurial business and enterprise. 
+
+<br>
+
+**About AeonLabs** <br>
+[AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototype of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). See [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) how to hire AeonLabs.
+
+### License
+
+Before proceeding to download any of AeonLabs open source code for software solutions and/or open hardware electronics for smart devices and data acquisition make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Open Source Code](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. For commercial business solutions contact AeonLabs for more information ℹ️ using the contacts above. Thank you 🙏.
+
 </div>
