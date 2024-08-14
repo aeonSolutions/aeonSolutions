@@ -62,7 +62,7 @@ https://aeonsolutions.github.io/research/
 ### <img height="18px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l5m5z1845s10s47cuyl5" /> Open Hardware Electronics
 This is the main page for all the open hardware electronics I designed and prototyped by myself using [KiCad EDA](https://www.kicad.org/), There are over **80** hardware electronics projects for smart devices, A.I. enabled,  and ready to download, order fabrication at a PCB factory or buy them on my DIY store. 
 
-Go to my Main Repository for Open Hardware Electronics
+Go to my Main Repository for Open Hardware Electronics <br>
 https://github.com/aeonSolutions/PCB-Prototyping-Catalogue <br>
 alternatively, if you prefer browsing it as a webpage <br>
 https://aeonsolutions.github.io/research/
