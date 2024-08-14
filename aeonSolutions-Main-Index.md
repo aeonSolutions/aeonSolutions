@@ -1,4 +1,4 @@
-Navigation: AeonLabs Main Index
+**Navigation** | AeonLabs Main Index
 
 
 <div align="right">
