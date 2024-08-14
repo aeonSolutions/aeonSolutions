@@ -39,9 +39,7 @@ https://github.com/aeonSolutions/Open-Scientific-Research
 <br>
 
 ### <img height="18px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lgeu3mh7autbw0q1rjhl" /> Open Source Code 
-
-
-This is the main page for all my open-source code and software apps to date with over 30 software solutions. 
+This is the main page for all my open-source code and software apps to date with over 30 software solutions programmed by myself in many computer languages.
 
 Go to my open Source Code Page  <br>
 https://github.com/aeonSolutions/aeonlabs-open-software-catalogue
@@ -49,6 +47,9 @@ https://github.com/aeonSolutions/aeonlabs-open-software-catalogue
 <br>
 
 ### <img height="18px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l5m5z1845s10s47cuyl5" /> Open Hardware Electronics
--[Open Hardware Electronics](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)
+This is the main page for all the open hardware electronics I designed and prototyped by myself using [KiCad EDA](https://www.kicad.org/), There are over **80** hardware electronics projects for smart devices, A.I. enabled,  and ready to download, order fabrication at a PCB factory or buy them on my DIY store. 
+
+Go to my Open Hardware Electronics Page
+https://github.com/aeonSolutions/PCB-Prototyping-Catalogue
 
 </div>
