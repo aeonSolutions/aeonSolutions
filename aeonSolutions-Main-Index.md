@@ -113,7 +113,7 @@ Below is a list of ALL my *official profiles online* on other platforms and webs
 - Email: mtpsilva@gmail.com
 - Zoom / Google Meet / MS Teams
 
-Before making any kind of call, send me a simple message to check my schedule and availability. Thank you. 
+Before making any kind of call (voice , video), send me a simple message to check my schedule and availability. Thank you. 
 
 <br>
 
