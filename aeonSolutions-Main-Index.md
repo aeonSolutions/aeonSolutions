@@ -39,7 +39,10 @@ https://github.com/aeonSolutions/Open-Scientific-Research
 <br>
 
 ### Open Source Code
--[Open source Code](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue)
+This is the main page for all my open-source code and software apps to date with over 30 software solutions. 
+
+Go to my open Source Code Page  <br>
+https://github.com/aeonSolutions/aeonlabs-open-software-catalogue
 
 <br>
 
