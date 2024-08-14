@@ -82,16 +82,25 @@ https://aeonsolutions.github.io/research/
 
 <br>
 
-**Official Profiles Online** <br>
+#### Official Profiles Online*
 Below is a list of my Official profiles online on other platforms and websites I use during my workday and work activity.
-- LinkedOm : https://www.linkedin.com/in/migueltomas/
-- Twitter : https://twitter.com/AeonlabsS
-- Stack Exchange / stack Overflow: https://stackoverflow.com/users/13794189/miguel-tomás
-- YouTube : https://www.youtube.com/@aeonlabs2751
+
+**GitHub (Open Innovation)**
 - GitHub : https://github.com/aeonSolutions
+- Stack Exchange / stack Overflow: https://stackoverflow.com/users/13794189/miguel-tomás
+
+
+**My scientific research projects** 
+- ORCID ​/ Scopus: https://orcid.org/0000-0002-5910-5179​
+- My Experimental Data  Repository ( Dataverse) : https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse
+
+**Social Media** <br>
+- Twitter: https://twitter.com/AeonlabsS
+- LinkedIn : https://www.linkedin.com/in/migueltomas/​
+- YouTube channel with LIVE videos of me programming: https://www.youtube.com/@aeonlabs2751
 - Discord : https://discord.gg/hw3j3RwfJf
 - Hackster.io : https://www.hackster.io/mtpsilva
-
+- 
 <br>
 
 **For Students** <br>
