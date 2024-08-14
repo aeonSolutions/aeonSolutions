@@ -82,7 +82,7 @@ https://aeonsolutions.github.io/research/
 
 <br>
 
-#### Official Profiles Online*
+### Official Profiles Online
 Below is a list of my Official profiles online on other platforms and websites I use during my workday and work activity.
 
 **GitHub (Open Innovation)**
@@ -100,7 +100,7 @@ Below is a list of my Official profiles online on other platforms and websites I
 - YouTube channel with LIVE videos of me programming: https://www.youtube.com/@aeonlabs2751
 - Discord : https://discord.gg/hw3j3RwfJf
 - Hackster.io : https://www.hackster.io/mtpsilva
-- 
+  
 <br>
 
 **For Students** <br>
