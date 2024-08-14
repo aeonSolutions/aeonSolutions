@@ -10,7 +10,7 @@
 
 <div align="justify">
   
-# Noteworthy accomplishments
+# Noteworthy Accomplishments
 ■ Pioneering digital transformation at the [University of Minho](https://www.uminho.pt/EN/Pages/default.aspx), [Laboratory of Construction and Building Materials](https://civil.uminho.pt/laboratorios/materiais/) from 2005 to 2009. <br>
 <br>
 ■ Driving three digital transformations for start-up enterprises between 2007 and 2020. The most recent a "*[Digital Transformation on a Small Start-Up Enterprise: Design, Prototype, and Deployment Based on Human-Centered Design Principles for the Construction Sector](https://aeonsolutions.github.io/publications/human-centered-logistics-construction/)*".  <br>
