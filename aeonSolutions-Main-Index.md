@@ -106,6 +106,12 @@ Below is a list of ALL my *official profiles online* on other platforms and webs
 - YouTube channel with LIVE videos of me programming: https://www.youtube.com/@aeonlabs2751
 - Discord : https://discord.gg/hw3j3RwfJf
 - Hackster.io : https://www.hackster.io/mtpsilva
+
+**How to contact me** <br>
+- WhatsApp +32 471 632 520
+- Telegram : + 32 471 632 520
+- Email: mtpsilva@gmail.com
+- Zoom / Google Meet / MS Teams
   
 <br>
 
