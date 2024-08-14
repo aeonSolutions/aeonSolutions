@@ -1,4 +1,4 @@
-**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >>  Open Innovatuion Index
+**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >>  Open Innovation Index
 
 <div align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/aeonSolutions/blob/main/open-innovation-book-index.md?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
