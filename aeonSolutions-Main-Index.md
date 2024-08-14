@@ -26,7 +26,8 @@ Visit the [publications page](https://aeonsolutions.github.io/publications/) to 
 ###  <img height="18px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lqw5g7r0wqexb3akm3sl" /> Résumé
 - [Miguel Tomas Silva Résumé](https://github.com/aeonSolutions)
 - [Noteworthy Accomplishments](https://github.com/aeonSolutions/aeonSolutions/blob/main/Noteworthy_Accomplishments.md)
-
+- [Scientific Research Statment]()
+- 
 <br>
 
 ### Open Innovation
