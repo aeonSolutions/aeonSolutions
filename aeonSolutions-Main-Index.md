@@ -88,7 +88,8 @@ Below is a list of my Official profiles online on other platforms and websites I
 - Twitter : https://twitter.com/AeonlabsS
 - Stack Exchange / stack Overflow: https://stackoverflow.com/users/13794189/miguel-tomás
 - YouTube : https://www.youtube.com/@aeonlabs2751
-  
+- GitHub : https://github.com/aeonSolutions
+   
 <br>
 
 **For Students** <br>
@@ -101,6 +102,6 @@ If you're a student starting a college or a university degree I strongly recomme
 
 ### License
 
-Before proceeding to download any of AeonLabs open source code for software solutions and/or open hardware electronics for smart devices and data acquisition make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Open Source Code](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. For commercial business solutions contact AeonLabs for more information ℹ️ using the contacts above. Thank you 🙏.
+Before proceeding to download any of AeonLab's open source code for software solutions and/or open hardware electronics for smart devices and data acquisition make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Open Source Code](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. For commercial business solutions contact AeonLabs for more information ℹ️ using the contacts above. Thank you 🙏.
 
 </div>
