@@ -41,8 +41,11 @@ Open science is a transformative approach to research and knowledge disseminatio
         alt="ORCID iD icon"/> ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
 </div>
 
-Go to my open scientific Research Page <br>
-https://github.com/aeonSolutions/Open-Scientific-Research
+Go to my Main Open Scientific Research Repository <br>
+https://github.com/aeonSolutions/Open-Scientific-Research <br>
+alternatively, if you prefer browsing it as a webpage <br>
+https://aeonsolutions.github.io/research/
+
 
 <br>
 
