@@ -38,7 +38,9 @@ https://github.com/aeonSolutions/Open-Scientific-Research
 
 <br>
 
-### Open Source Code
+### <img height="18px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lgeu3mh7autbw0q1rjhl" /> Open Source Code 
+
+
 This is the main page for all my open-source code and software apps to date with over 30 software solutions. 
 
 Go to my open Source Code Page  <br>
