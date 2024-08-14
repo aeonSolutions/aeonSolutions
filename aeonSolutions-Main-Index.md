@@ -90,7 +90,8 @@ Below is a list of my Official profiles online on other platforms and websites I
 - YouTube : https://www.youtube.com/@aeonlabs2751
 - GitHub : https://github.com/aeonSolutions
 - Discord : https://discord.gg/hw3j3RwfJf
-   
+- Hackster.io : https://www.hackster.io/mtpsilva
+-    
 <br>
 
 **For Students** <br>
