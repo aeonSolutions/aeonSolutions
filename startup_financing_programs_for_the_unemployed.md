@@ -31,9 +31,20 @@ Last update 14-08-2024
 
 ### Belgium
 
+**useful links** *(in Dutch, French)* <br>
+- [VLAIO - Flanders innovation & entrepreneurship](https://www.vlaio.be/en)
+- [UNIZO](https://www.unizo.be)
+  
+  
 <br>
 
 ### Portugal
+
+**useful links** *(in Portuguese)* <br>
+- [I.E.F.P. Entrepreneurship webpage](https://www.iefp.pt/empreendedorismo)
+- [I.E.F.P. National Microcredit Program](https://www.iefp.pt/documents/10181/190833/Ficha+Sintese+Programa+Nacional+de+Microcredito+%28vf+03-01-2022%29.pdf/353dc580-ea2e-4a41-ac78-4e8c0aa6bbe0)
+- [Financing program from Fomento Bank](https://www.bpfomento.pt/pt/catalogo/linha-de-apoio-ao-empreendedorismo-e-criacao-do-proprio-emprego/)
+  
 
 <br>
 
