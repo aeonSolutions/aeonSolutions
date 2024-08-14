@@ -49,7 +49,7 @@ To learn more about open innovation using Github you are invited to read the art
 - When my DIY is a Minimum viable Product (MVP)
 
 ### Pre-Startup Business
-- Sell your first DIY product
+- Selling your very first DIY product
 - Advertising and Marketing a DIY product 
   - The Marketing Plan
   - The Sales Plan 
