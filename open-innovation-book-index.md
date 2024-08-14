@@ -47,12 +47,15 @@ To learn more about open innovation using Github you are invited to read the art
 - [Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)
 
 ### Pre-Startup Business
-- Selling your very first DIY product
-- When my DIY is a Minimum viable Product (MVP)
+- Financing your DIY projects
+  - Donations
+  - Sponsorships
 - Advertising and Marketing a DIY product 
   - The Marketing Plan
   - The Sales Plan 
 - How to build a community
+- Selling your very first DIY product 
+- When my DIY is a Minimum viable Product (MVP)
 - Constant stream of users and future clients
   - how to open a business activity that is not yet a business nor an enterprise  
  
