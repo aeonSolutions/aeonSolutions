@@ -1,3 +1,5 @@
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lztozx5fhr486ojv78ol" />
+
 **Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >>  Open Innovation Index
 
 <div align="right">
