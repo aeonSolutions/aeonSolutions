@@ -17,7 +17,7 @@
 <br>
 ■ Designed, tested, and prototyped over 70 technology solutions, accessible on GitHub. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;-  over [80 open hardware electronics](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue/blob/main/list_of_open_source_code_software.md) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;-  over [30 open source code software solutions](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;-  over [30 open source code software solutions](https://github.com/aeonSolutions/aeonlabs-open-software-catalogue/blob/main/list_of_open_source_code_software.md) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;-  from which [16 smart hardware electronics fully matured](https://aeonsolutions.github.io/products/) into commercial products sold online <br>
 <br>
 ■ Specialized in smart self-sensing carbon-based composites for Structural Health Monitoring from 2005-07, 2017 and 2020-23. <br>
