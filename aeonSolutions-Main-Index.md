@@ -88,34 +88,8 @@ https://aeonsolutions.github.io/research/
 <br>
 
 ### Official Profiles Online
-Below is a list of ALL my *official profiles online* on other platforms and websites I use during my workday and work activity. <br>
-<sup>Any other I ask not to include in your search. Thank you.</sup> <br>
-
-**My Open Innovation**
-- GitHub : https://github.com/aeonSolutions
-- Stack Exchange / stack Overflow: https://stackoverflow.com/users/13794189/miguel-tomás
-
-
-**My Open Scientific Research Projects**  <br>
-- [ [Web of Science ID: AAZ-9463-2021](https://www.webofscience.com/wos/author/record/AAZ-9463-2021) ] [ [     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/> ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
-- Experimental Data  Repository ( Dataverse) : https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse
-
-**My Social Media** <br>
-- Twitter: https://twitter.com/AeonlabsS
-- LinkedIn : https://www.linkedin.com/in/migueltomas/​
-- YouTube channel with LIVE videos of me programming: https://www.youtube.com/@aeonlabs2751
-- Discord : https://discord.gg/hw3j3RwfJf
-- Hackster.io : https://www.hackster.io/mtpsilva
-
- ℹ️ **How to Contact me** <br>
-- WhatsApp +32 471 632 520
-- Telegram : + 32 471 632 520
-- Email: mtpsilva@gmail.com
-- Zoom / Google Meet / MS Teams
-
+In the following link is a list of ALL my *official profiles online* on other platforms and websites I use during my workday and work activity. <br>
+https://github.com/aeonSolutions/aeonSolutions/wiki/How-to-Hire-AeonLabs <br>
 Before making any kind of call (voice, video), send me a simple message to check my schedule and availability. Thank you. 🙏
 
 <br>
