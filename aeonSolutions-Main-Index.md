@@ -22,6 +22,11 @@ I invite you, to fully browse all my repositories here on Github, and visit the 
 
 Visit the [publications page](https://aeonsolutions.github.io/publications/) to find out more about published scientific communications in peer-reviewed journals.  On my [LinkedIn profile](https://www.linkedin.com/in/migueltomas/), you can find PDF copies of university diplomas, course certifications, recommendation letters, and much more.
 
+**About AeonLabs** <br>
+[AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototype of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). See [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) for information on how to hire AeonLabs.
+
+<br>
+
 ## Index
 ###  <img height="18px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lqw5g7r0wqexb3akm3sl" /> Résumé
 - [Miguel Tomas Silva Résumé](https://github.com/aeonSolutions)
@@ -119,9 +124,6 @@ Before making any kind of call (voice, video), send me a simple message to check
 If you're a student starting a college or a university degree I strongly recommend, and advise, to learn all about data repositories, such as GitHub, and also all about "a timeline history of records". For instance use Twitter, LinkedIn, and YouTube and start publishing, since day one at school, about everything. Every insignificant task and work has value, so make sure others know it too! Be AGILE publish photos and videos, show errors and mistakes, and how you solved them later, with more photos, videos, and comments. This way, when you finally get your degree and diploma, you will have an authentic, trustworthy, professional curriculum that can be used to advertise your skills. When looking for a job. When starting up your own entrepreneurial business and enterprise. 
 
 <br>
-
-**About AeonLabs** <br>
-[AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototype of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). See [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) for information on how to hire AeonLabs.
 
 ## License
 
