@@ -42,7 +42,7 @@ On his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/), you can fin
 
 Miguel is eager to leverage his expertise, drive innovation, and contribute to technological advancements. <br>
 Thank you for considering him in your search. <br>
-**For HR and business inquiries**, send an email to mtpsilva@gmail.com, alternatively, click next to [schedule an online meeting](https://github.com/aeonSolutions/aeonSolutions/wiki/How-to-Hire-AeonLabs).
+**For HR and business inquiries**, click next to [see all contact options available](https://github.com/aeonSolutions/aeonSolutions/wiki/How-to-Hire-AeonLabs).
 
 #
 
