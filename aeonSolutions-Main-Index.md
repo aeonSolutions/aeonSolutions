@@ -43,7 +43,7 @@ Visit the [publications page](https://aeonsolutions.github.io/publications/) to 
 
 <br>
 
- 💬 There are new 🆕 comments on the [discussions page](https://github.com/aeonSolutions/aeonSolutions/discussions). Go check`em out. 🆕 There's a new Discord Server for this and all other projects. To join [click here](https://discord.gg/czYK5pXA).<br>
+ 💬 There are new 🆕 comments on the [discussions page](https://github.com/aeonSolutions/aeonSolutions/discussions). Go check`em out. 🆕 There's a free Discord Server for all projects I author. To join [click here](https://discord.gg/czYK5pXA).<br>
 
 <p align="center">
 <img src="https://img.shields.io/github/discussions/aeonSolutions/aeonSolutions">
