@@ -46,6 +46,8 @@ Last update 19-08-2024
 
 In 2024, I have to recommend and advise you, to buy a bus, any bus will do, just make sure to pick one with the correct size for your project, as it will be your home and office work for the next 24 months. This will make available 2\3 of your monthly income, which can be used entirely to finance your entrepreneurial project. Again, learn all regulations and legalities on how to live in a motorhome, and more importantly, learn the dangers, risks, and safety precautions to have when living in a motorhome, for instance, always inform the local police of your stay and the dates interval you'll be staying.  
 
+**Sell your first DIY Products Online** <br>
+&nbsp; &nbsp; To sell your first DIY product online, it does not need to be perfect. However, it does need to be fully functional, with minor bugs or errors. 
 
 <br>
 
