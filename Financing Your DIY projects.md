@@ -41,7 +41,7 @@ This is a gray area. On one hand, you are receiving unemployment benefits, on th
 **What to avoid at all costs** <br>
 Renting a place, whether it is a shop, office or a home apartment is the biggest expense one has, and to make it worse, without any return for the project at the end of the month. The amount of money paid in rent adds up to 2\3 of the total amount of money one receives from unemployment. To put it in perspective, if your DIY project is going to need 3 months of disposable income when paying rent, you can expect 3x the time, or 9 months for this short example. It will make one, wanting to save elsewhere, such as food and clothing, transport, and even in utilities in particular heating. It is possible, but there are better ways to save money, in between, learning how to save on fixed costs, is part of the entrepreneurial experience that brings immense value later, when it becomes a real business and activity. 
 
-When looking for a place to grow your DIY project keep all possibilities open, those with no fixed costs first. options such as a tent on the side of the road  and a motorhome cannot and should not be discarded. Just make sure you learn all the regulations and legality first before buying a schoolie bus or a DHL Van as a home. 
+When looking for a place to grow your DIY project keep all possibilities open, the ones with no fixed costs first. Options such as a tent on the side of the road and a motorhome cannot and should not be discarded. Just make sure you learn all the regulations and legality first before buying a school bus or a DHL Van to convert it into a home or a place to work. 
 
 
 <br>
