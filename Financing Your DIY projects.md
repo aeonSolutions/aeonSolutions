@@ -35,7 +35,7 @@ Last update 19-08-2024
 
 <br>
 
-## How to finance your DIY projects
+## How to Finance your DIY Projects
 &nbsp; &nbsp; This is a gray area. On one hand, you are receiving unemployment benefits, on the other hand, you are planning to sell online and profit from it. Both in Portugal and Belgium regulations and legality state payment of unemployment is reduced by the amount one profits over the month and year. This does not favor an entrepreneur, looking to self-finance his or her project to buy tools, equipment, and materials. without incurring legal obligations, such as loans and state taxes.    
 
 **What to avoid at all costs** <br>
