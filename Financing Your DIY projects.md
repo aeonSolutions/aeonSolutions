@@ -31,11 +31,16 @@ Last update 19-08-2024
 
 &nbsp; &nbsp; In 2024, GitHub is the best place I know, that can be used to build an entrepreneurial project where anyone is able to follow and see changes happening over time, even participate in the project with ideas, questions and discussions about it.  However, it isn't enough, for the past 4 years I've been using Twitter and Linkedin to build a brand and an image supported with unedited content: unedited photos and videos, and  instant comments that begin full with errors and misspells that I correct overtime, during the day and week and anytime someone  comments back or sends a reaction, for instance, a Like.  To me, the most important to showcase is that I am real and that I am able to accept I can be wrong, and correct when necessary. This is a mandatory requirement for all wanting to use the internet in real-time with LIVE broadcast videos and instant comments.  I've been also using YouTube to show my day as a DIY entrepreneur in particular when a new solution is ready to be tested. 
 
-As a DIY and entrepreneur, I need to show every day that I am working on something that will bring value and profit. Posting and publishing photos that are all but perfect is part of the daily job, and more importantly, to post better photos as the work happens over time until it is possible to make the perfect photo without any usage of Photoshop or A.I. tools. 
+&nbsp; &nbsp; As a DIY and entrepreneur, I need to show every day that I am working on something that will bring value and profit. Posting and publishing photos that are all but perfect is part of the daily job, and more importantly, posting better photos as the work happens over time until it is possible to make the perfect photo without any usage of Photoshop or A.I. tools.  Be prepared to receive quite a lot of bad reviews and critique, especially when the innovation and novelty of your project are ahead of mainstream trends. 
 
 <br>
 
-## Belgium
+## How to finance your DIY projects
+This is a gray area. On one hand, you are receiving unemployment benefits, on the other hand, you are planning to sell online and profit from it. Both in Portugal and Belgium regulations and legality state payment of unemployment is reduced by the amount one profits. This does not favor an entrepreneur, looking to self-finance his or her project to buy tools, equipment, and materials. without incurring legal obligations, such as loans and state taxes.    
+
+<br>
+
+### Belgium
 
 <br>
 
@@ -46,7 +51,7 @@ As a DIY and entrepreneur, I need to show every day that I am working on somethi
   
 <br>
 
-## Portugal
+### Portugal
 
 <br>
 
