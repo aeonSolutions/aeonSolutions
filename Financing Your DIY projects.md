@@ -44,7 +44,7 @@ Last update 19-08-2024
 **Keep your Fixed Costs to the bare minimum** <br>
 &nbsp; &nbsp; When looking for a place to grow your DIY project keep all possibilities open, the ones with no fixed costs first. Options such as a tent on the side of the road and a motorhome, cannot and should not, be discarded. Just make sure you learn all the regulations and legality first, before buying a school bus or a DHL Van to convert it into a home or a place to work. These are *dirt cheap* to buy and with low cost of conversion into a motorhome, plus, they can always be improved later to fit any changes and needs.  Nowadays there are more than enough video tutorials on how to do it, Facebook groups, and article blogs with immense information.  
 
-In 2024, I have to recommend and advise you, to buy a bus, any bus will do, just make sure to pick one with the correct size for your project, as it will be your home and office work for the next 24 months. Again, learn all regulations and legalities on how to live in a motorhome, and more importantly, learn the dangers, risks, and safety precautions to have when living in a motorhome.  
+In 2024, I have to recommend and advise you, to buy a bus, any bus will do, just make sure to pick one with the correct size for your project, as it will be your home and office work for the next 24 months. This will make available 2\3 of your monthly income, which can be used entirely to finance your entrepreneurial project. Again, learn all regulations and legalities on how to live in a motorhome, and more importantly, learn the dangers, risks, and safety precautions to have when living in a motorhome.  
 
 
 <br>
