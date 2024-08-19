@@ -15,7 +15,7 @@
 **Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >>  [Open Innovation Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/open-innovation-book-index.md)  >> Financing Your DIY Projects for the Unemployed
 
 <div align="right">
- <a href="https://github-com.translate.goog/aeonSolutions/aeonSolutions/blob/main/startup_financing_programs_for_the_unemployed.md?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
+ <a href="https://github-com.translate.goog/aeonSolutions/aeonSolutions/blob/main/Financing%20Your%20DIY%20projects.md?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
 Last update 19-08-2024
 </div>
 
@@ -37,6 +37,9 @@ Last update 19-08-2024
 
 ## How to finance your DIY projects
 This is a gray area. On one hand, you are receiving unemployment benefits, on the other hand, you are planning to sell online and profit from it. Both in Portugal and Belgium regulations and legality state payment of unemployment is reduced by the amount one profits. This does not favor an entrepreneur, looking to self-finance his or her project to buy tools, equipment, and materials. without incurring legal obligations, such as loans and state taxes.    
+
+**What to avoid at all costs** <br>
+Renting a place, whether it is a shop, office or a home apartment is the biggest expense one has, and to make it worse, without any return for the project at the end of the month. The amount of money paid in rent adds up to 2\3 of the total amount of money one receives from unemployment. To put it in perspective, if your DIY project is going to need 3 months of disposable income when paying rent, you can expect 3x the time, or 9 months for this short example. It will make one, wanting to save elsewhere, such as food and clothing, transport, and even in utilities in particular heating. It is possible, but there are better ways to save money, in between, learning how to save on fixed costs, is part of the entrepreneurial experience that brings immense value later, when it becomes a real business and activity. 
 
 <br>
 
