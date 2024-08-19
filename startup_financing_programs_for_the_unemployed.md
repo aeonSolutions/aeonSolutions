@@ -36,6 +36,7 @@ Last update 14-08-2024
 **useful links** *(in Dutch, French)* <br>
 - [VLAIO - Flanders innovation & entrepreneurship](https://www.vlaio.be/en)
 - [UNIZO](https://www.unizo.be)
+- [Sirris - Innovation Forward](https://www.sirris.be/en)
   
   
 <br>
