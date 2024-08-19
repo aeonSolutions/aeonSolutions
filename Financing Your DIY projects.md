@@ -27,7 +27,9 @@ Last update 19-08-2024
 *for the Unemployed*
 <br>
 
-To this date, in Belgium and Portugal, there isn't any official "pre-startup" category defined in regulations for entrepreneurship while unemployed. This means all job-searching activities must be made until a good entrepreneur project can be used to showcase personal skills and skillsets and DIY works show to have potential to be future MVP products and services in the near future. In 2024, GitHub is the best place I know, that can be used to build an entrepreneurial project where anyone is able to follow and see changes happening over time, even participate in the project with ideas, questions and discussions about it.  
+&nbsp; &nbsp; To this date, in Belgium and Portugal, there isn't any official "pre-startup" category defined in regulations for entrepreneurship while unemployed. This means all job-searching activities must be made until a good entrepreneur project can be used to showcase personal skills and skillsets and DIY works show to have potential to be future MVP products and services in the near future. 
+
+&nbsp; &nbsp; In 2024, GitHub is the best place I know, that can be used to build an entrepreneurial project where anyone is able to follow and see changes happening over time, even participate in the project with ideas, questions and discussions about it.  However, it isn't enough, for the past 4 years I've been using Twitter and Linkedin to build a brand and an image supported with unedited content: unedited photos and videos, and  instant comments that begin full with errors and misspells that I correct overtime, during the day and week and anytime someone  comments back or sends a reaction, for instance, a Like.  To me, the most important to showcase is that I am real and that I am able to accept I can be wrong, and correct when necessary. This is a mandatory requirement for all wanting to use the internet in real-time with LIVE broadcast videos and instant comments.  I've been also using Youtube to show my day as a DIY entrepreneur in particular when a new solutions is ready to be tested. 
 
 <br>
 
