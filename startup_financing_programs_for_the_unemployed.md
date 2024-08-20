@@ -49,7 +49,7 @@ Although the maximum financing of 95%, the bank where one is able to apply has a
 <br>
 
 ### Invest + Program
-Although the maximum financing of 95%, the bank where one is able to apply has also its own "access conditions" and this means the maximum financing lowers to 75%. To get the financing about 95%, the entrepreneur must meet the criteria defined by the bank. This information is usually omitted and must be asked to learn how to reach 95%.  This is one of the reasons many projects are rejected for financing simply because the "investment plan" is designed for 95% of 100,000 euros. In practical terms, the Invest + program allows financing up to 75,000 euros, instead of the 100,000 euros advertised on the internet. To get 95% of 100,000 euros additional documentation is required by the bank. 
+Although the maximum financing of 95%, the bank where one is able to apply has also its own "access conditions" and this means the maximum financing lowers to 75%. To get the financing of about 95%, the entrepreneur must meet the criteria defined by the bank. This information is usually omitted and must be asked to learn how to reach 95%.  This is one of the reasons many projects are rejected for financing simply because the "investment plan" is designed for 95% of 100,000 euros. In practical terms, the Invest + program allows financing up to 75,000 euros, instead of the 100,000 euros advertised on the internet. To get 95% of 100,000 euros additional documentation is required by the bank. 
  
 <br>
 
