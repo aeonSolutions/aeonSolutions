@@ -16,7 +16,7 @@
 
 <div align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/aeonSolutions/blob/main/startup_financing_programs_for_the_unemployed.md?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
-Last update 14-08-2024
+Last update 20-08-2024
 </div>
 
 <br>
