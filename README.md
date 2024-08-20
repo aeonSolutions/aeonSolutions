@@ -4,6 +4,7 @@
 ([theScientist](https://repositorium.sdum.uminho.pt/handle/1822/7982)) <br>
 
 <div align="right">
+    <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
  <a href="https://github-com.translate.goog/aeonSolutions?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
 <sup> Last update 14-08-2024 </sup>
 </div>
