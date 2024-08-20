@@ -15,6 +15,7 @@
 **Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >>  [Open Innovation Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/open-innovation-book-index.md)  >> Financing Your DIY Projects for the Unemployed
 
 <div align="right">
+   <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
  <a href="https://github-com.translate.goog/aeonSolutions/aeonSolutions/blob/main/Financing%20Your%20DIY%20projects.md?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
 Last update 19-08-2024
 </div>
