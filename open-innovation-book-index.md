@@ -51,7 +51,7 @@ To learn more about open innovation using Github you are invited to read the art
 
 ### Pre-Startup Business
 - Create your personal Brand
-- Types of open Licences
+- [Types of Open Licences](https://snyk.io/learn/open-source-licenses/)
 - [Financing your DIY Projects](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing%20Your%20DIY%20projects.md)
   - [Bootstrapping](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing_Your_DIY_Projects_Bootstrapping.md)
   - Donations
