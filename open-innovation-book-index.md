@@ -53,7 +53,7 @@ To learn more about open innovation using Github you are invited to read the art
 - Create your personal Brand
 - Types of open Licences
 - [Financing your DIY Projects](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing%20Your%20DIY%20projects.md)
-  - Bootstrapping   
+  - [Bootstrapping](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing_Your_DIY_Projects_Bootstrapping.md)
   - Donations
   - Sponsorships & sponsorware
 - Advertising and Marketing a DIY product 
