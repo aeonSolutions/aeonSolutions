@@ -16,7 +16,7 @@
 
 <div align="right">
    <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
- <a href="https://github-com.translate.goog/login?return_to=https://github.com/aeonSolutions/aeonSolutions/edit/main/Financing_Your_DIY_Projects_Bootstrapping.md&_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
+ <a href="https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing_Your_DIY_Projects_Bootstrapping.md">Change language</a> <br>
 Last update 21-08-2024
 </div>
 
