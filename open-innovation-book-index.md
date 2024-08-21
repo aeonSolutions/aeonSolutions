@@ -41,7 +41,7 @@ To learn more about open innovation using Github you are invited to read the art
 - ToDo: [DIY to Startup Business](https://github.com/aeonSolutions/aeonSolutions/blob/main/DIY-to-Startup-Business.md)
 
 ### Do It Yourself 
-- What is DIY
+- [What is DIY](https://en.wikipedia.org/wiki/Do_it_yourself)
 - How to do DIY
 - The very first DIY Concept 
 - The Design Phase
