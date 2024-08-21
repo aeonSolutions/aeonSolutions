@@ -30,4 +30,6 @@ Last update 21-08-2024
 
 By definition, bootstrapping means that a company operates with limited resources. This may prohibit how much a company can reinvest into the company as opposed to paying back the owner. The owner simultaneously tries to raise business for the company and return its capital, both of which compete for the same capital. <sub>source: Investopedia </sub>
 
+In general, bootstrapping usually refers to a self-starting process that is supposed to continue or grow without external financing. Read more about bootstrapping on [Wikipedia](https://en.wikipedia.org/wiki/Bootstrapping).
+
 </div>
