@@ -52,6 +52,13 @@ In 2024, I have to recommend and advise you, to buy a bus, any bus will do, just
 
 <br>
 
+#### Financing your DIY Projects
+- [Bootstrapping](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing_Your_DIY_Projects_Bootstrapping.md)
+- Donations
+- Sponsorships & sponsorware
+
+<br>
+
 ### Belgium
 
 <br>
