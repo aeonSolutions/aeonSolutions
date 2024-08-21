@@ -50,7 +50,7 @@ To learn more about open innovation using Github you are invited to read the art
 - [Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)
 
 ### Pre-Startup Business
-- Create your personal Brand
+- [Create your Personal Brand](https://www.wix.com/blog/personal-branding-the-ultimate-guide)
 - [Types of Open Licences](https://snyk.io/learn/open-source-licenses/)
 - [Financing your DIY Projects](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing%20Your%20DIY%20projects.md)
   - [Bootstrapping](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing_Your_DIY_Projects_Bootstrapping.md)
