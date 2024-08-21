@@ -12,7 +12,7 @@
 </a>
 
 
-**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >>  [Open Innovation Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/open-innovation-book-index.md)  >> Financing Your DIY Projects for the Unemployed
+**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >>  [Open Innovation Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/open-innovation-book-index.md)  >> Financing Your DIY Projects - Bootstrapping
 
 <div align="right">
    <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
