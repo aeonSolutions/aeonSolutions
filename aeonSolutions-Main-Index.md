@@ -108,6 +108,14 @@ If you're a student starting a college or a university degree I strongly recomme
 
 <br>
 
+**A final statement about Mental Health in Science** <br>
+It is found recurrently on the internet news and comments about another scientific researcher, in particular junior and medior researchers, going through some kind of mental health difficulties in particular those associated with sensory overload events. Promoted by abusive usage of wireless devices, assembled or modified to actuate at a distance and invisible, causing harm to a victim’s neurobiology. This is an old area of knowledge, that now needs to be openly discussed and commented, in a peaceful constructive way towards identification of solutions to all abusive usages of wireless frequency waves (radiation or vibration) in electronic devices. Open solutions are the correct path toward safety in usage of all things related to such technologies. Be knowledgeable to stay safe.
+
+To learn what AeonLabs is doing towards better mental health in science, go to the repository in the link below: <br>
+https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki
+
+<br>
+
 ## License
 
 Before proceeding to download any of AeonLab's open-source code for software solutions and/or open hardware electronics for smart devices and data acquisition make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Open Source Code](https://github.com/aeonSolutions/aeonSolutions/wiki/AeonLabs-Licensing) for more information. For commercial business solutions contact AeonLabs ℹ️ using the contacts above. Thank you 🙏.
