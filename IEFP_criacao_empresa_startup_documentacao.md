@@ -42,6 +42,7 @@ Last update 23-08-2024
 - Declaracao de desemprego obtida na  Seguranca Social Direta atraves do separador *Emprego > Desemprego > Subsidio de desemprego > Ver detalhe*
 - Certidao de nao divida a Seguranca Social retirada do portal da Seguranca Social Direta
 - Certidao de nao divida as finanças retirada do portal das finanças
+- [Declaracao de empresa autonoma](https://iefponline.iefp.pt/IEFP/utenteCandidaturasGestao/documentos/MinutaDeclaracaoEmpresaAutonoma.odt)
   
 ### Plano de Negocios 
 - Resumo do negocio a criar
