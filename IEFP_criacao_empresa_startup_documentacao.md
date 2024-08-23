@@ -52,10 +52,9 @@ Last update 23-08-2024
 - Declaracao sem compromisso de honra de inexistencia de grau de parentesco - n7, n8 artigo 12 (promotor)
 
 #### Formularios
+Fazer download [aqui](https://github.com/aeonSolutions/aeonSolutions/tree/main/documents/formularios_IEFP) dos formularios template requeridos pelo IEFP e pela EPAT. Nao esquecer depois de verificar se estao atualizados!
 Formularios disponiveis na plataforma do IEFP 
 - https://www.iefp.pt/en/formularios/?docId=dkNCNGoyakUyMEk9
-
-fazer download [aqui](https://github.com/aeonSolutions/aeonSolutions/tree/main/documents/formularios_IEFP) dos formularios template requeridos pelo IEFP e pela EPAT. Nao esquecer depois de verificar se estao atualizados!
 
 #### Norgarante
 - Declaração de Compromisso LAECPE
