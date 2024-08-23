@@ -63,6 +63,7 @@ These programs can vary greatly by country and region, so it is advisable to see
 - [VLAIO - Flanders innovation & entrepreneurship](https://www.vlaio.be/en)
 - [UNIZO](https://www.unizo.be)
 - [Sirris - Innovation Forward](https://www.sirris.be/en)
+- [Experiences with “Springplank naar zelfstandige”](https://www.reddit.com/r/belgium/comments/18sq5sq/experiences_with_springplank_naar_zelfstandige/) on Reddit
   
   
 <br>
