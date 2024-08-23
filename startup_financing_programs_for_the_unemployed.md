@@ -28,7 +28,7 @@ Last update 20-08-2024
 *for the Unemployed*
  <br>
 
-In Europe, various programs and initiatives are available to support unemployed individuals in starting their own businesses. These programs are often run by national governments, regional authorities, and the European Union itself, aiming to foster entrepreneurship, reduce unemployment, and promote economic growth. Here are some notable startup programs for the unemployed across Europe:
+In Europe, various programs and initiatives are available to support unemployed individuals in starting their own businesses. These programs are often run by national governments, regional authorities, and the European Union itself, aiming to foster entrepreneurship, reduce unemployment, and promote economic growth. Here are some notable startup programs for the unemployed across Europe: <sub>source: chatGPT</sub>
 
 1. Erasmus for Young Entrepreneurs (EU-wide)
 2. European Social Fund (ESF) Programs (EU-wide)
