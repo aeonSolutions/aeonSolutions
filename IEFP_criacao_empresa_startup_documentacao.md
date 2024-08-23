@@ -67,7 +67,7 @@ Apresentar os orcamentos para o investimento a realizar, os quais necessitam de 
   
 Incluir ainda uma listagem de equipamentos que ja tem disponiveis e que ira utilizar no ambito do negocio a criar.
 
-#### eiculos
+#### Veiculos
 Caso esteja prevista a aquisicao de uma viatura, incuir ainda na secao de investimento o seguinte:
 - Modelo e matricula da viatura
 - Tipo de Combustivel
