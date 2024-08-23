@@ -94,4 +94,10 @@ Caso esteja prevista a aquisicao de uma viatura, incuir ainda na secao de invest
 - IVA
 - Valor total
 
+<br>
+
+### Seguranca Social
+Para que seja antecipado o pagamento oo valor das prestacoes de subsidio de desemprgo, e necessario enviar um requerimento a seguracao social. Para mais informacao ver o documento no link abaixo: <br>
+https://www.seg-social.pt/documents/10152/15007/6004_prestacoes_desemprego_montante_unico/0dc4a89a-cd9e-48d6-be95-bb722a7ef3f9
+
  </div>
