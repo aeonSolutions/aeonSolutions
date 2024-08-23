@@ -24,9 +24,37 @@ Last update 23-08-2024
 
 <div align="justify">
  
-# Documents Required by IEFP
-*for the Unemployed*
- <br>
+# Documentação Requerida pelo i.E.F.P.
+*Startup for the Unemployed*  <br>
 
+#### Documentação a Anexar ao Processo
+- Fotocopias 
+  - Cartão do Cidadão 
+  - Carta de Condução 
+- Cpmprovativo de Morada retirado do portal das finanças
+- Curriculum Vitae atualizado, assinado e datado. <br>
+  Nota: E necessario mencionar todas as experiencias profissionais, nomeadamente: nome das empresas; funcoes exercidas em cada empresa; data de inicio e de fim em cada empresa)
+- Certificado de Habilitacoes
+- Certificado de Formacoes para o exercicio da actividade (ou equivalente)
+- Declaração de inscricao no centro de emprego
+- Declaracao de eligibiliade para o PAECPE
+- Declaracao de desemprego obtida na Seguranca Social Direta atraves do separador *Emprego > Desemprego > Subsidio de Desemprego > Obter Declaração de Subsidio de Desemprego > Colocar a data Atual > Obter Declaração *
+- Declaracao de desemprego obtida na  Seguranca Social Direta atraves do separador *Emprego > Desemprego > Subsidio de desemprego > Ver detalhe*
+- Certidao de nao divida a Seguranca Social retirada do portal da Seguranca Social Direta
+- Certidao de nao divida as finanças retirada do portal das finanças
+  
+#### Plano de Negocios 
+- Resumo do negocio a criar
+- Natureza juridica do negocio a criar
+- Instalacoes ( espaço aberto ao público) <br>
+    Nota muito importante: Desaconselho totalmente dar inicio a uma empresa startup num espaco arrendado. E um custo demasiado elevado para este tipo de apoio do I.E.F.P.
+  - Contrato de promessa de arrendamento do establecimento
+  - Caderneta predial do establecimento
+  - Alvara de utiliacao do estableciemnto, de acordo com as atividades a desenvolver
+- Instalações ( escritorio ou espaco fechado ao publico na habitacao)
+  - Caderneta predial da habitacao
+  - fotocopia do cartao do cidadao da habitacao
+  - declaracao do proprietario da habtacao, assianda, caso o proprietario nao seja o promotor
+     
 
  </div>
