@@ -27,7 +27,7 @@ Last update 23-08-2024
 # Documentação Requerida pelo i.E.F.P.
 *Startup for the Unemployed*  <br>
 
-#### Documentação a Anexar ao Processo
+### Documentação a Anexar ao Processo
 - Fotocopias 
   - Cartão do Cidadão 
   - Carta de Condução 
@@ -43,7 +43,7 @@ Last update 23-08-2024
 - Certidao de nao divida a Seguranca Social retirada do portal da Seguranca Social Direta
 - Certidao de nao divida as finanças retirada do portal das finanças
   
-#### Plano de Negocios 
+### Plano de Negocios 
 - Resumo do negocio a criar
 - Natureza juridica do negocio a criar
 - Instalacoes ( espaço aberto ao público) <br>
@@ -55,6 +55,24 @@ Last update 23-08-2024
   - Caderneta predial da habitacao
   - fotocopia do cartao do cidadao da habitacao
   - declaracao do proprietario da habtacao, assianda, caso o proprietario nao seja o promotor
+
+#### Licenciamentos
+xistem atividades que, em sede de analise da candidatura. poderao exigir o cumprimento de requisitos especificos que impliquem o respectivo licenciamento.
+- Documento comprovativo do licenciamento das instalacoes / estableciemnto
+- Licenca de uso das instalacoes ( comercio; servicos; armazem; actividade industrial)
+- Licença especifica fo estableciemnto / atividade (restauracao e bebidas; cabeleireiro ; actividades licenciadas pelo IMTT, INCI, etc )
+
+Links uteis:
+- Transportes: http://www.imtt.pt
+- Construcao civil \ imobiliaia: http://www.inci.pt
+- Mediacao \ angariacao de seguros: http://www.isp.pt
+- desporto: http://www.idesporto.pt
+- agencia de viagens \ animacao turistica: http://www.turismodeportugal.pt
+
+Legislacao:
+- http://portaldolicenciamento.com
+- http://www.portaldaempresa.pt/ove/pt/
+- http://www.ama.pt
      
 #### Investimento
 Apresentar os orcamentos para o investimento a realizar, os quais necessitam de incluir:
