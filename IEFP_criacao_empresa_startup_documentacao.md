@@ -119,7 +119,10 @@ https://www.seg-social.pt/documents/10152/15007/6004_prestacoes_desemprego_monta
 
 
 ### Formularios
+Formularios disponiveis na plataforma do IEFP 
 - https://www.iefp.pt/en/formularios/?docId=dkNCNGoyakUyMEk9
+
+Formularios Banco do Fomento / norgarante
 - 
 
  </div>
