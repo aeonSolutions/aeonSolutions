@@ -35,7 +35,7 @@ Last update 23-08-2024
   - Cartao de Pessoa Colectiva
   - Ficha de utente SIGAE
   - etc... 
-- Cpmprovativo de Morada retirado do portal das finanças
+- Comprovativo de Morada retirado do portal das finanças
 - Curriculum Vitae atualizado, assinado e datado. <br>
   Nota: E necessario mencionar todas as experiencias profissionais, nomeadamente: nome das empresas; funcoes exercidas em cada empresa; data de inicio e de fim em cada empresa)
 - Certificado de Habilitacoes
