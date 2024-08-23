@@ -42,8 +42,8 @@ Last update 23-08-2024
 - Certificado de Formacoes para o exercicio da actividade (ou equivalente)
 - Declaração de inscricao no centro de emprego
 - Declaracao de eligibiliade para o PAECPE
-- Declaracao de desemprego obtida na Seguranca Social Direta atraves do separador *Emprego > Desemprego > Subsidio de Desemprego > Obter Declaração de Subsidio de Desemprego > Colocar a data Atual > Obter Declaração *
-- Declaracao de desemprego obtida na  Seguranca Social Direta atraves do separador *Emprego > Desemprego > Subsidio de desemprego > Ver detalhe*
+- Declaracao de desemprego obtida na [Seguranca Social Direta](https://app.seg-social.pt/ptss/) atraves do separador *Emprego > Desemprego > Subsidio de Desemprego > Obter Declaração de Subsidio de Desemprego > Colocar a data Atual > Obter Declaração *
+- Declaracao de desemprego obtida na [Seguranca Social Direta](https://app.seg-social.pt/ptss/) atraves do separador *Emprego > Desemprego > Subsidio de desemprego > Ver detalhe*
 - Certidao de nao divida a Seguranca Social retirada do portal da Seguranca Social Direta
 - Certidao de nao divida as finanças retirada do portal das finanças
 - [Declaracao de empresa autonoma](https://iefponline.iefp.pt/IEFP/utenteCandidaturasGestao/documentos/MinutaDeclaracaoEmpresaAutonoma.odt)
