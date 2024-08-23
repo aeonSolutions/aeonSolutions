@@ -45,6 +45,13 @@ Fulfilling this future will significantly lower the cost of ubiquitous smart dev
 
 <br>
 
+***Minimum Conditions for Hiring me*** <br>
+- Active monitoring of wireless radiation and vibration at the workplace
+- My contract document is published online for anyone to read
+- Separate Institutional online presence from  all other online activity I may had
+
+<br>
+
 ***References*** <br>
 [1]	J.O. Carneiro, S. Jalali, V. Teixeira, M. Tomás, “The Effect of Concrete Strength and Reinforcement on Toughness of Reinforced Concrete Beams”, Published in the Journal “Construction and Building Materials”, Volume 19, Issue 7, September 2005, Pages 493-499 - http://dx.doi.org/10.1016/j.conbuildmat.2005.01.008 
 
