@@ -64,7 +64,7 @@ Last update 23-08-2024
   - Caderneta predial da habitacao
   - fotocopia do cartao do cidadao da habitacao
   - declaracao do proprietario da habtacao, assianda, caso o proprietario nao seja o promotor
-- Memoria descritiva que fundamente os dados contidos no formulario de candidatura (demonstracao de resultados previsionais)
+- Memoria descritiva que fundamente os dados contidos no formulario de candidatura (demonstracao de resultados previsionais). [Ver aqui os pontos necessarios a incluir](https://github.com/aeonSolutions/aeonSolutions/blob/main/documents/memoria_descritiva_pontos__incluir.docx).
   
 #### Licenciamentos
 xistem atividades que, em sede de analise da candidatura. poderao exigir o cumprimento de requisitos especificos que impliquem o respectivo licenciamento.
