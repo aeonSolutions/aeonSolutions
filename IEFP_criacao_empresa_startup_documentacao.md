@@ -63,6 +63,8 @@ Formularios disponiveis na plataforma do IEFP
   
 fazer download [aqui](https://github.com/aeonSolutions/aeonSolutions/tree/main/documents/formularios_norgarante) dos formularios template requeridos pela nrogarante. Nao esquecer depois de verificar se estao atualizados!
 
+<br>
+
 ### Plano de Negocios 
 - Resumo do negocio a criar
 - Natureza juridica do negocio a criar
