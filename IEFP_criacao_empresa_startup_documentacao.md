@@ -51,6 +51,10 @@ Last update 23-08-2024
 - Declaracao sem compromisso de honra em como garantem o posto de trabalho do promotor a tempo inteiro (empresa existente)
 - Declaracao sem compromisso de honra de inexistencia de grau de parentesco - n7, n8 artigo 12 (promotor)
 
+#### Formularios
+Formularios disponiveis na plataforma do IEFP 
+- https://www.iefp.pt/en/formularios/?docId=dkNCNGoyakUyMEk9
+- 
 #### Norgarante
 - Declaração de Compromisso LAECPE
 - Declaração  de empresa Autonoma
@@ -126,8 +130,6 @@ https://www.seg-social.pt/documents/10152/15007/6004_prestacoes_desemprego_monta
 [Download do requerimento template](https://github.com/aeonSolutions/aeonSolutions/blob/main/documents/requerimento_template_antecipacao_prestacoes_desemprego.pdf)
 
 
-### Formularios
-Formularios disponiveis na plataforma do IEFP 
-- https://www.iefp.pt/en/formularios/?docId=dkNCNGoyakUyMEk9
+
 
  </div>
