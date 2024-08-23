@@ -54,14 +54,16 @@ Last update 23-08-2024
 #### Formularios
 Formularios disponiveis na plataforma do IEFP 
 - https://www.iefp.pt/en/formularios/?docId=dkNCNGoyakUyMEk9
-- 
+
+fazer download [aqui](https://github.com/aeonSolutions/aeonSolutions/tree/main/documents/formularios_IEFP) dos formularios template requeridos pelo IEFP e pela EPAT. Nao esquecer depois de verificar se estao atualizados!
+
 #### Norgarante
 - Declaração de Compromisso LAECPE
 - Declaração  de empresa Autonoma
 - Declaracao de empresa unica
 - Declaracao de partilha de informacao
   
-fazer download [aqui](https://github.com/aeonSolutions/aeonSolutions/tree/main/documents/formularios_norgarante) dos formularios template requeridos pela nrogarante. Nao esquecer depois de verificar se estao atualizados!
+fazer download [aqui](https://github.com/aeonSolutions/aeonSolutions/tree/main/documents/formularios_norgarante) dos formularios template requeridos pela norgarante. Nao esquecer depois de verificar se estao atualizados!
 
 <br>
 
