@@ -28,9 +28,13 @@ Last update 23-08-2024
 *Startup for the Unemployed*  <br>
 
 ### Documentação a Anexar ao Processo
+- Fomulario de Candidatura ( Anexo 6 CN/2009 revisao 2)
 - Fotocopias 
   - Cartão do Cidadão 
-  - Carta de Condução 
+  - Carta de Condução
+  - Cartao de Pessoa Colectiva
+  - Ficha de utente SIGAE
+  - etc... 
 - Cpmprovativo de Morada retirado do portal das finanças
 - Curriculum Vitae atualizado, assinado e datado. <br>
   Nota: E necessario mencionar todas as experiencias profissionais, nomeadamente: nome das empresas; funcoes exercidas em cada empresa; data de inicio e de fim em cada empresa)
@@ -43,10 +47,14 @@ Last update 23-08-2024
 - Certidao de nao divida a Seguranca Social retirada do portal da Seguranca Social Direta
 - Certidao de nao divida as finanças retirada do portal das finanças
 - [Declaracao de empresa autonoma](https://iefponline.iefp.pt/IEFP/utenteCandidaturasGestao/documentos/MinutaDeclaracaoEmpresaAutonoma.odt)
+- ???? (verificar esta exigencia): Declaracao sob compromisso de honra em como nao concorrem a outros apoios para o mesmo investimento (promotor)
+- Declaracao sem compromisso de honra em como garantem o posto de trabalho do promotor a tempo inteiro (empresa existente)
+- Declaracao sem compromisso de honra de inexistencia de grau de parentesco - n7, n8 artigo 12 (promotor)
   
 ### Plano de Negocios 
 - Resumo do negocio a criar
 - Natureza juridica do negocio a criar
+- Documento comprovativo da empresa preexistente a confirmar a intencao de proceder ao aumento de capital a favor do promotor (contrato de promessa ou ata da sociedade)
 - Instalacoes ( espaço aberto ao público) <br>
     Nota muito importante: Desaconselho totalmente dar inicio a uma empresa startup num espaco arrendado. E um custo demasiado elevado para este tipo de apoio do I.E.F.P.
   - Contrato de promessa de arrendamento do establecimento
@@ -56,7 +64,8 @@ Last update 23-08-2024
   - Caderneta predial da habitacao
   - fotocopia do cartao do cidadao da habitacao
   - declaracao do proprietario da habtacao, assianda, caso o proprietario nao seja o promotor
-
+- Memoria descritiva que fundamente os dados contidos no formulario de candidatura (demonstracao de resultados previsionais)
+  
 #### Licenciamentos
 xistem atividades que, em sede de analise da candidatura. poderao exigir o cumprimento de requisitos especificos que impliquem o respectivo licenciamento.
 - Documento comprovativo do licenciamento das instalacoes / estableciemnto
@@ -77,14 +86,17 @@ Legislacao:
      
 #### Investimento
 Apresentar os orcamentos para o investimento a realizar, os quais necessitam de incluir:
-- Nome e NIF (caso seja portugues) do fornecedor
-- Descricao detalhada dos servicos / equipamentos a adquirir
-- valor detalahdo de cada servico/ equipamento a adquirir
-- valor sem IVA
-- IVA
-- valor total
+- Factura pro-forma
+- ou orcamentos relativos ao investimento a realizar:
+  - Nome e NIF (caso seja portugues) do fornecedor
+  - Descricao detalhada dos servicos / equipamentos a adquirir
+  - valor detalahdo de cada servico/ equipamento a adquirir
+  - valor sem IVA
+  - IVA
+  - valor total
   
-Incluir ainda uma listagem de equipamentos que ja tem disponiveis e que ira utilizar no ambito do negocio a criar.
+Incluir ainda uma listagem de equipamentos que ja tem disponiveis e que ira utilizar no ambito do negocio a criar. <br>
+Para casos de empresa existente e trspasse , incluir o modelo 22 do IRC dos ultimos dois anos , mais a declaracao anual
 
 #### Veiculos
 Caso esteja prevista a aquisicao de uma viatura, incuir ainda na secao de investimento o seguinte:
@@ -98,7 +110,8 @@ Caso esteja prevista a aquisicao de uma viatura, incuir ainda na secao de invest
 <br>
 
 ### Seguranca Social
-Para que seja antecipado o pagamento oo valor das prestacoes de subsidio de desemprgo, e necessario enviar um requerimento a seguracao social. Para mais informacao ver o documento no link abaixo: <br>
+Para que seja antecipado o pagamento oo valor das prestacoes de subsidio de desemprgo, e necessario enviar um requerimento a seguracao social. 
+Para mais informacao ver o documento no link abaixo: <br>
 https://www.seg-social.pt/documents/10152/15007/6004_prestacoes_desemprego_montante_unico/0dc4a89a-cd9e-48d6-be95-bb722a7ef3f9
 
  </div>
