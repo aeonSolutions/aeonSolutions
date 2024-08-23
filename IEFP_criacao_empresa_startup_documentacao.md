@@ -50,7 +50,15 @@ Last update 23-08-2024
 - ???? (verificar esta exigencia): Declaracao sob compromisso de honra em como nao concorrem a outros apoios para o mesmo investimento (promotor)
 - Declaracao sem compromisso de honra em como garantem o posto de trabalho do promotor a tempo inteiro (empresa existente)
 - Declaracao sem compromisso de honra de inexistencia de grau de parentesco - n7, n8 artigo 12 (promotor)
+
+#### Norgarante
+- Declaração de Compromisso LAECPE
+- Declaração  de empresa Autonoma
+- Declaracao de empresa unica
+- Declaracao de partilha de informacao
   
+fazer download [aqui](https://github.com/aeonSolutions/aeonSolutions/tree/main/documents/formularios_norgarante) dos formularios template requeridos pela nrogarante. Nao esquecer depois de verificar se estao atualizados!
+
 ### Plano de Negocios 
 - Resumo do negocio a criar
 - Natureza juridica do negocio a criar
@@ -65,7 +73,7 @@ Last update 23-08-2024
   - fotocopia do cartao do cidadao da habitacao
   - declaracao do proprietario da habtacao, assianda, caso o proprietario nao seja o promotor
 - Memoria descritiva que fundamente os dados contidos no formulario de candidatura (demonstracao de resultados previsionais). [Ver aqui os pontos necessarios a incluir](https://github.com/aeonSolutions/aeonSolutions/blob/main/documents/memoria_descritiva_pontos__incluir.docx).
-- [Declaração  de empresa Autonoma](https://github.com/aeonSolutions/aeonSolutions/blob/main/documents/declaracao_template_empresa_autonoma.pdf)
+
  
 #### Licenciamentos
 xistem atividades que, em sede de analise da candidatura. poderao exigir o cumprimento de requisitos especificos que impliquem o respectivo licenciamento.
@@ -121,8 +129,5 @@ https://www.seg-social.pt/documents/10152/15007/6004_prestacoes_desemprego_monta
 ### Formularios
 Formularios disponiveis na plataforma do IEFP 
 - https://www.iefp.pt/en/formularios/?docId=dkNCNGoyakUyMEk9
-
-Formularios Banco do Fomento / norgarante
-- 
 
  </div>
