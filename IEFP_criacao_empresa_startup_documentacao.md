@@ -56,5 +56,24 @@ Last update 23-08-2024
   - fotocopia do cartao do cidadao da habitacao
   - declaracao do proprietario da habtacao, assianda, caso o proprietario nao seja o promotor
      
+#### Investimento
+Apresentar os orcamentos para o investimento a realizar, os quais necessitam de incluir:
+- Nome e NIF (caso seja portugues) do fornecedor
+- Descricao detalhada dos servicos / equipamentos a adquirir
+- valor detalahdo de cada servico/ equipamento a adquirir
+- valor sem IVA
+- IVA
+- valor total
+  
+Incluir ainda uma listagem de equipamentos que ja tem disponiveis e que ira utilizar no ambito do negocio a criar.
+
+#### eiculos
+Caso esteja prevista a aquisicao de uma viatura, incuir ainda na secao de investimento o seguinte:
+- Modelo e matricula da viatura
+- Tipo de Combustivel
+- Numero de lugares
+- valor total sem IVA
+- IVA
+- Valor total
 
  </div>
