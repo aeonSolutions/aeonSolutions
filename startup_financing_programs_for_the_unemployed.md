@@ -63,6 +63,7 @@ These programs can vary greatly by country and region, so it is advisable to see
 - [VLAIO - Flanders innovation & entrepreneurship](https://www.vlaio.be/en)
 - [UNIZO](https://www.unizo.be)
 - [Sirris - Innovation Forward](https://www.sirris.be/en)
+- [Springplank](https://www.rva.be/burgers/volledige-werkloosheid/mag-u-werken-tijdens-uw-werkloosheid/mag-u-tijdens-uw-werkloosheid-een-nevenactiviteit-als-zelfstandige-in-het-kader-van-het-voordeel-springplank-naar-zelfstandige-uitoefenen#:~:text=Het%20voordeel%20"Springplank%20naar%20zelfstandige%20"%20is%20een%20maatregel%20die%20toelaat,te%20behouden%20gedurende%20twaalf%20maanden.)
 - [Experiences with “Springplank naar zelfstandige”](https://www.reddit.com/r/belgium/comments/18sq5sq/experiences_with_springplank_naar_zelfstandige/) on Reddit
   
   
