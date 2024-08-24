@@ -78,7 +78,7 @@ The same cannot be said about Artificial intelligence (AI). (...) at best, it wi
 The video below, made by [Anitay Boneh](https://www.linkedin.com/in/amitayboneh/) is about **responsible A.I.** to think and meditate about us humans. <br>
 
 <p align="center">
-  <img height="350" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/UseAIresponsibly.gif"> <br>
+  <img height="350" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/useAIresponsibly.gif"> <br>
     <sup> Video 2 – Video about Responsible A.I. </sup>
 </p>
 
