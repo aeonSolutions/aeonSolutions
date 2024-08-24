@@ -70,6 +70,15 @@ The overall objective of this open project is to extend the life of vehicles by 
 To learn more, go to the project "[Open Hardware Electronics for Volvo P2 platform"](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki). Currently designing an OPEN Rear Electronic Module using [KiCad EDA](https://www.kicad.org). 
 Other noteworthy projects He has been working on, include "[NVidia's Jetson nano SoM](https://github.com/aeonSolutions/AeonLabs-Jetson-Nano)" where one can find research and prototype work for an "autonomous eCargo Bike"; an "open vacuum cleaner" and an open "conversational pod".
 
+### Artificial Intelligence & Inteligent Machines
+ "*Intelligent Machines (IM) are capable of understanding "moral values", however, they come with minimum hardware requirements and specifications. For instance, the total number of sensors installed must be comparable to the number and sensitivity of "biological sensors" in the human body. This hardware requirement is followed by the next, a software minimum requirement one capable of collecting all sensor data, analyzing it, and operating factually, in "real-time", and in accordance with the surrounding environment while at the same time acting safely among all near .....
+(...)
+The same cannot be said about Artificial intelligence (AI). (...) at best, it will be capable of mimicking "moral values" from past events and past data. (...) Which makes it dangerous and unsafe when asked to make decisions about the present time. Even in cases when the model has 100 0% accuracy ( the infamous R2 many scientists like to showcase in their published works).*" <sub> 24-08-2024 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7232645060876521474?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7232645060876521474%2C7233097561480269824%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287233097561480269824%2Curn%3Ali%3Aactivity%3A7232645060876521474%29">read the conversation  on Linkedin</a>  </sub> I invite the reader to watch the video below , made by [Anitay Boneh](https://www.linkedin.com/in/amitayboneh/) about **responsible A.I.** <br>
+
+<p align="center">
+  <img height="350" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/UseAIresponsibly.gif">
+</p>
+
 ### Youtube channel
 <p align="center">
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=uzuPwudTzNk" target="_blank">
