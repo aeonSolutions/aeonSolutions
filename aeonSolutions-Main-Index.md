@@ -68,9 +68,6 @@ Visit the [publications page](https://aeonsolutions.github.io/publications/) to 
 #### Open Scientific Research Index
 Go to my Main Repository for Open Scientific Research <br>
 https://github.com/aeonSolutions/Open-Scientific-Research <br>
-alternatively, if you prefer browsing it as a webpage <br>
-https://aeonsolutions.github.io/research/
-
 
 <br>
 
