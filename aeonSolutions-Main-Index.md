@@ -55,7 +55,7 @@ Visit the [publications page](https://aeonsolutions.github.io/publications/) to 
 ### <img height="18px" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lg7xdm3wvd3237y06ujl" /> Open Scientific Research
 &nbsp;&nbsp; I have a deep commitment to advancing knowledge for everyone. I'm the author of [5 scientific publications and co-authors 2](https://orcid.org/0000-0002-5910-5179), I hold a Master's degree in Smart Carbon Fiber Composites for Structural Health Monitoring, a second master's degree, and 82.5 ECTS in Master-level courses on Artificial Intelligence and Smart IoT Technologies from Swedish and Spanish universities. The most recent publication, "A deep neural network for electrical resistance calibration of self-sensing carbon fiber polymer composites compatible with Edge computing Structural monitoring hardware electronics," is available in the Journal Structural Health Monitoring ([doi:10.1177/14759217231170001](https://journals.sagepub.com/doi/abs/10.1177/14759217231170001?journalCode=shma)).
 
- In 2021 he moved, permanently, all his scientific research data to publicly accessible repositories stored as [dataverses hosted on the servers at Harvard University](https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse) and here, on GitHub.
+ In 2021 I moved, permanently, all my scientific research data to publicly accessible repositories stored as [dataverses hosted on the servers at Harvard University](https://dataverse.harvard.edu/dataverse/MiguelTomasMainDataverse) and here, on GitHub.
 
 <div align="center">
  
