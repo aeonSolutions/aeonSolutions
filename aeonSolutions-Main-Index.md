@@ -65,6 +65,8 @@ Visit the [publications page](https://aeonsolutions.github.io/publications/) to 
         alt="ORCID iD icon"/> ORCID ID 0000-0002-5910-5179](https://orcid.org/0000-0002-5910-5179) ] [ [Scopus ID 57197610949](https://www.scopus.com/authid/detail.uri?authorId=57197610949) ] <br>
 </div>
 
+ Visit the [publications page](https://aeonsolutions.github.io/publications/) to find out more about published scientific communications in peer-reviewed journals.  
+
 #### Open Scientific Research Index
 Go to my Main Repository for Open Scientific Research <br>
 https://github.com/aeonSolutions/Open-Scientific-Research <br>
