@@ -92,8 +92,8 @@ To learn more about open innovation using Github you are invited to read the art
   - Open Licensing & Copyright
   - Branding your Business 
 - [Financing Programs for Entrepreneurs](https://github.com/aeonSolutions/aeonSolutions/blob/main/startup_financing_programs_for_the_unemployed.md)
-  - Crowdfunding
-  - Safe Notes
+  - [Crowdfunding]()
+  - [Safe Notes](https://github.com/aeonSolutions/aeonSolutions/blob/main/Safe_Notes.md)
   - Conventional Bank Loans
 
 </div>
