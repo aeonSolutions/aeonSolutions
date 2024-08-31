@@ -35,8 +35,7 @@ To learn more about open innovation using Github you are invited to read the art
 
 <br>
 
-## Index
-### Open Innovation
+## Open Innovation
 Open innovation is a concept that emphasizes the importance of collaboration and knowledge sharing across organizational boundaries to drive innovation and growth. Unlike the traditional model of innovation, which often relies on a closed system where ideas and inventions are developed internally within a company, open innovation encourages organizations to use both internal and external ideas to advance their technology, products, and services. This approach recognizes that the flow of knowledge is not limited to a single organization; instead, valuable ideas can come from a wide range of sources, including customers, suppliers, competitors, startups, research institutions, and independent inventors.
 
 The philosophy behind open innovation is rooted in the belief that organizations can no longer afford to rely solely on their internal resources and research and development (R&D) capabilities. In a world that is increasingly interconnected and rapidly changing, the pace of innovation has accelerated, making it difficult for companies to keep up if they rely only on their own ideas. Open innovation allows companies to tap into a broader pool of knowledge and creativity, thus increasing their ability to innovate quickly and effectively. By collaborating with external partners, companies can access new markets, technologies, and expertise that might otherwise be unavailable or too costly to develop independently.
@@ -53,6 +52,7 @@ Another challenge is cultural resistance within organizations. Shifting from a t
 
 Despite these challenges, the benefits of open innovation are significant. By breaking down the walls that separate organizations from the outside world, open innovation enables companies to tap into a vast network of knowledge and creativity, drive faster and more effective innovation, and create value in new and unexpected ways. As the pace of technological change continues to accelerate, open innovation is likely to become an even more important strategy for organizations seeking to stay competitive in a rapidly evolving global market. <sub> *Source:chatGPT.com* </sub>
 
+## Index
 ### Do It Yourself 
 - [What is DIY](https://en.wikipedia.org/wiki/Do_it_yourself)
 - How to do DIY
