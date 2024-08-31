@@ -29,8 +29,6 @@ Last update 31-08-2024
 ## Preface
 Starting as a DIY enthusiast often leads to the discovery of a passion or skill that can be turned into a viable business. What begins as a personal project, driven by creativity and hands-on learning, can evolve into a startup with the potential for growth. The transition from DIY to a startup involves recognizing the market demand for your product or service, refining your processes, and building a brand. With the right mindset and resources, what was once a hobby can become a successful business, offering not only personal fulfillment but also financial rewards. <sub> *source: ChatGPT* </sub>
 
-<br>
-
 ## Open Innovation
 Open innovation is a concept that emphasizes the importance of collaboration and knowledge sharing across organizational boundaries to drive innovation and growth. Unlike the traditional model of innovation, which often relies on a closed system where ideas and inventions are developed internally within a company, open innovation encourages organizations to use both internal and external ideas to advance their technology, products, and services. This approach recognizes that the flow of knowledge is not limited to a single organization; instead, valuable ideas can come from a wide range of sources, including customers, suppliers, competitors, startups, research institutions, and independent inventors.
 
