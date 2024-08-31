@@ -12,7 +12,7 @@
 </a>
 
 
-**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >>  Open Innovation Index  >>  Promotion of DIY Work Online
+**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >>  [Open Innovation Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/open-innovation-book-index.md)  >>  Promotion of DIY Work Online
 
 <div align="right">
    <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
