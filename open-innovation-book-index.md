@@ -83,7 +83,7 @@ Despite these challenges, the benefits of open innovation are significant. By br
 - Constant stream of users and future clients
   - how to open a business activity that is not yet a business nor an enterprise  
  
-### How to Startup Your Business <sub>*when you're unemployed*</sub> 
+### How to Startup Your Business
 - [Financing Programs for Entrepreneurs](https://github.com/aeonSolutions/aeonSolutions/blob/main/startup_financing_programs_for_the_unemployed.md)
 - Crowdfunding
 - Safe Notes
