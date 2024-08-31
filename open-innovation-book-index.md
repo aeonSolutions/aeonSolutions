@@ -60,7 +60,6 @@ Despite these challenges, the benefits of open innovation are significant. By br
 - The Design Phase
 - The Fabrication Phase
 - The Testing Phase
-- [Demystifying Open Source as a Business](https://opensource.net/demystifying-open-source-as-a-business/) by [Julia Machado](https://opensource.net/author/juliamachado/)
 
 ### Pre-Startup Business
 - [Create your Personal Brand](https://www.wix.com/blog/personal-branding-the-ultimate-guide)
@@ -68,6 +67,7 @@ Despite these challenges, the benefits of open innovation are significant. By br
 - [Differences between DIY Consumers and Conventional Consumers](https://github.com/aeonSolutions/aeonSolutions/blob/main/Differences_between_DIY_Consumers_and_Conventional_Consumers%20.md)
 - [Regulations & Certifications](https://github.com/aeonSolutions/aeonSolutions/blob/main/regulations_and_certifications.md)
 - [Financing your DIY Projects](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing%20Your%20DIY%20projects.md)
+  - [Demystifying Open Source as a Business](https://opensource.net/demystifying-open-source-as-a-business/) by [Julia Machado](https://opensource.net/author/juliamachado/)
   - [How to choose the right business model for your Open Source project](https://opensource.net/choose-right-business-model-open-source-project/) by [Tatiana Krupenya](https://opensource.net/author/tatianakrupenya/) 
   - [Bootstrapping](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing_Your_DIY_Projects_Bootstrapping.md)
   - Donations
