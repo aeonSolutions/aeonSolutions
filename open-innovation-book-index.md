@@ -78,7 +78,7 @@ Despite these challenges, the benefits of open innovation are significant. By br
   - The Pre-Startup Business Sales Plan 
 - How to Build a Community
 - [Selling Your Very First DIY Product ](https://github.com/aeonSolutions/aeonSolutions/blob/main/Selling_Your_Very_First_DIY_Product.md)
-- When is my DIY Product a Minimum viable Product (MVP)
+- [When is my DIY Product a Minimum viable Product (MVP)](https://github.com/aeonSolutions/aeonSolutions/blob/main/When_is_my_DIY_Product_a_Minimum_viable_Product_(MVP).md)
 - [Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)
 - Constant stream of users and future clients
   - how to open a business activity that is not yet a business nor an enterprise  
