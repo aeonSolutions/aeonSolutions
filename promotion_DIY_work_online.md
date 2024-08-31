@@ -45,13 +45,16 @@ Another way to share work from other makers is through round-up posts on blogs o
 
 Cross-promotion through partnerships or collective challenges is also popular. For example, makers might join forces for a themed challenge, where each participant creates a project following a specific guideline or concept. These challenges can go viral, as participants share their progress and final projects, encouraging their followers to check out the work of all participants. 
 
+Below is an example of how sharing work with other makers can happen. I'm using this one in particular on my open hardare electronics hardware catalog repository. 
+
+*For the promotion of your hardware electronics schematics on a browser there are available free, open-source,  Web Gerber viewers, ready to be integrated into an existing website.
+I recommend 🥰 [GRX](https://github.com/hpcreery/GRX) made by [Hunter Creery](https://github.com/hpcreery) and [Peyton Creery](https://github.com/phcreery). Anyone can try it out on the following website: [https://grx.creery.org/](https://grx.creery.org/)*
+
 **The Impact of Online Promotion and Sharing**
 
 Promoting DIY work online and sharing projects from other makers have profound impacts. They help build individual brands and grow audiences, turning hobbies into viable businesses or side hustles. More importantly, they contribute to a vibrant and supportive maker community where knowledge, creativity, and resources are freely exchanged. This culture of sharing and collaboration often leads to innovation, as makers draw inspiration from each other’s work, learn new techniques, and push the boundaries of what is possible in the DIY space.
 
 By actively promoting their own work and celebrating the creations of others, makers cultivate an inclusive and dynamic community that continues to grow and evolve. This collaborative approach not only enriches the DIY culture but also ensures that it remains a welcoming space for newcomers and seasoned creators alike. <sub>*source: chatGPT.com* </sub>
 
-  For the promotion of your hardware electronics schematics on a browser there are available free, open-source,  Web Gerber viewers, ready to be integrated into an existing website.
-I recommend 🥰 [GRX](https://github.com/hpcreery/GRX) made by [Hunter Creery](https://github.com/hpcreery) and [Peyton Creery](https://github.com/phcreery). Anyone can try it out on the following website: [https://grx.creery.org/](https://grx.creery.org/)
 
 </div>
