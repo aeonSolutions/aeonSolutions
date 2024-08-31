@@ -76,6 +76,8 @@ To learn more about open innovation using Github you are invited to read the art
   - The Pre-Startup Business Marketing Plan
   - The Pre-Startup Business Sales Plan 
 - [How to Build a Community](https://github.com/aeonSolutions/aeonSolutions/blob/main/How_to_Build_a_Community.md)
+  - How to Manage Open Feedback
+  - How to Handle an Open Complaint
 - [Selling Your Very First DIY Product ](https://github.com/aeonSolutions/aeonSolutions/blob/main/Selling_Your_Very_First_DIY_Product.md)
 - [When is my DIY Product a Minimum viable Product (MVP)](https://github.com/aeonSolutions/aeonSolutions/blob/main/When_is_my_DIY_Product_a_Minimum_viable_Product_(MVP).md)
 - [Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)
@@ -84,8 +86,10 @@ To learn more about open innovation using Github you are invited to read the art
  
 ### How to Startup Your Business
 - [Financing Programs for Entrepreneurs](https://github.com/aeonSolutions/aeonSolutions/blob/main/startup_financing_programs_for_the_unemployed.md)
-- Crowdfunding
-- Safe Notes
-- Conventional Bank Loans
+  - Crowdfunding
+  - Safe Notes
+  - Conventional Bank Loans
+- Conventional Business Model - Intellectual Property & Patents 
+- Open Business Model - Open Licensing & Copyright 
 
 </div>
