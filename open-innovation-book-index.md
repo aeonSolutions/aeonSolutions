@@ -55,7 +55,7 @@ To learn more about open innovation using Github you are invited to read the art
 ## Index
 ### Do It Yourself 
 - [What is DIY](https://en.wikipedia.org/wiki/Do_it_yourself)
-- How to do DIY
+- [How to do DIY](https://github.com/aeonSolutions/aeonSolutions/blob/main/How_to_do_DIY.md)
 - The very first DIY Concept 
 - The Design Phase
 - The Fabrication Phase
