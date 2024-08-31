@@ -85,11 +85,15 @@ To learn more about open innovation using Github you are invited to read the art
   - how to open a business activity that is not yet a business nor an enterprise  
  
 ### How to Startup Your Business
+- Conventional Business Model
+  - Intellectual Property & Patents
+  - Trademarks  
+- Open Business Model
+  - Open Licensing & Copyright
+  - Branding you r Business 
 - [Financing Programs for Entrepreneurs](https://github.com/aeonSolutions/aeonSolutions/blob/main/startup_financing_programs_for_the_unemployed.md)
   - Crowdfunding
   - Safe Notes
   - Conventional Bank Loans
-- Conventional Business Model - Intellectual Property & Patents 
-- Open Business Model - Open Licensing & Copyright 
 
 </div>
