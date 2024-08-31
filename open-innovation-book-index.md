@@ -69,7 +69,7 @@ To learn more about open innovation using Github you are invited to read the art
   - [Demystifying Open Source as a Business](https://opensource.net/demystifying-open-source-as-a-business/) by [Julia Machado](https://opensource.net/author/juliamachado/)
   - [How to choose the right business model for your Open Source project](https://opensource.net/choose-right-business-model-open-source-project/) by [Tatiana Krupenya](https://opensource.net/author/tatianakrupenya/) 
   - [Bootstrapping](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing_Your_DIY_Projects_Bootstrapping.md)
-  - Donations
+  - [Donations](https://github.com/aeonSolutions/aeonSolutions/blob/main/DIY_projects_Donations.md)
   - [Sponsorships & Sponsorware](https://github.com/aeonSolutions/aeonSolutions/blob/main/Sponsorships_&_Sponsorware.md)
   - [Crowd Funding a DIY Project](https://github.com/aeonSolutions/aeonSolutions/blob/main/crowd_funding_diy_project.md)
 - [Advertising and Marketing a DIY product](https://github.com/aeonSolutions/aeonSolutions/blob/main/Advertising_and_Marketing_a_DIY_product.md) 
