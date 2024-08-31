@@ -60,6 +60,7 @@ To learn more about open innovation using Github you are invited to read the art
 - The Testing Phase
 
 ### Pre-Startup Business
+How to open a business activity that is not yet a business nor an enterprise.
 - [Your DIY solution is working. What are the next steps to sell it online? ](https://github.com/aeonSolutions/aeonSolutions/blob/main/your_DIY_solution_is_working.md)
 - [Create your Personal Brand](https://www.wix.com/blog/personal-branding-the-ultimate-guide)
 - [Types of Open Licences](https://snyk.io/learn/open-source-licenses/)
@@ -83,7 +84,6 @@ To learn more about open innovation using Github you are invited to read the art
 - [When is my DIY Product a Minimum viable Product (MVP)](https://github.com/aeonSolutions/aeonSolutions/blob/main/When_is_my_DIY_Product_a_Minimum_viable_Product_(MVP).md)
 - [Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)
 - Constant stream of users and future clients
-  - how to open a business activity that is not yet a business nor an enterprise  
  
 ### How to Startup Your Business
 - Conventional Business Model
