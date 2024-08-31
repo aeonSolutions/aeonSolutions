@@ -71,14 +71,14 @@ Despite these challenges, the benefits of open innovation are significant. By br
   - [How to choose the right business model for your Open Source project](https://opensource.net/choose-right-business-model-open-source-project/) by [Tatiana Krupenya](https://opensource.net/author/tatianakrupenya/) 
   - [Bootstrapping](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing_Your_DIY_Projects_Bootstrapping.md)
   - Donations
-  - Sponsorships & sponsorware
+  - Sponsorships & Sponsorware
 - Advertising and Marketing a DIY product 
   - [Promotion of DIY Work online](https://github.com/aeonSolutions/aeonSolutions/blob/main/promotion_DIY_work_online.md)
   - The Pre-Startup Business Marketing Plan
   - The Pre-Startup Business Sales Plan 
-- How to build a community
-- Selling your very first DIY product 
-- When my DIY is a Minimum viable Product (MVP)
+- How to Build a Community
+- Selling Your Very First DIY Product 
+- When is my DIY Product a Minimum viable Product (MVP)
 - [Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)
 - Constant stream of users and future clients
   - how to open a business activity that is not yet a business nor an enterprise  
