@@ -65,6 +65,7 @@ Despite these challenges, the benefits of open innovation are significant. By br
 ### Pre-Startup Business
 - [Create your Personal Brand](https://www.wix.com/blog/personal-branding-the-ultimate-guide)
 - [Types of Open Licences](https://snyk.io/learn/open-source-licenses/)
+- [Differences between DIY Consumers and Conventional Consumers](https://github.com/aeonSolutions/aeonSolutions/blob/main/Differences_between_DIY_Consumers_and_Conventional_Consumers%20.md)
 - [Regulations & Certifications](https://github.com/aeonSolutions/aeonSolutions/blob/main/regulations_and_certifications.md)
 - [Financing your DIY Projects](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing%20Your%20DIY%20projects.md)
   - [How to choose the right business model for your Open Source project](https://opensource.net/choose-right-business-model-open-source-project/) by [Tatiana Krupenya](https://opensource.net/author/tatianakrupenya/) 
@@ -83,7 +84,6 @@ Despite these challenges, the benefits of open innovation are significant. By br
   - how to open a business activity that is not yet a business nor an enterprise  
  
 ### How to Startup Your Business <sub>*when you're unemployed*</sub> 
-- [Differences between DIY Consumers and Conventional Consumers](https://github.com/aeonSolutions/aeonSolutions/blob/main/Differences_between_DIY_Consumers_and_Conventional_Consumers%20.md)
 - [Financing Programs for Entrepreneurs](https://github.com/aeonSolutions/aeonSolutions/blob/main/startup_financing_programs_for_the_unemployed.md)
 - Crowdfunding
 - Safe Notes
