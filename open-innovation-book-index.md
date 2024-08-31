@@ -52,7 +52,7 @@ To learn more about open innovation using Github you are invited to read the art
 ### Pre-Startup Business
 - [Create your Personal Brand](https://www.wix.com/blog/personal-branding-the-ultimate-guide)
 - [Types of Open Licences](https://snyk.io/learn/open-source-licenses/)
-- [Regulations & Certifications]()
+- [Regulations & Certifications](https://github.com/aeonSolutions/aeonSolutions/blob/main/regulations_and_certifications.md)
 - [Financing your DIY Projects](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing%20Your%20DIY%20projects.md)
   - [How to choose the right business model for your Open Source project](https://opensource.net/choose-right-business-model-open-source-project/) by [Tatiana Krupenya](https://opensource.net/author/tatianakrupenya/) 
   - [Bootstrapping](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing_Your_DIY_Projects_Bootstrapping.md)
