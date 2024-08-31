@@ -55,9 +55,9 @@ To learn more about open innovation using Github you are invited to read the art
 - [What is DIY](https://en.wikipedia.org/wiki/Do_it_yourself)
 - [How to do DIY](https://github.com/aeonSolutions/aeonSolutions/blob/main/How_to_do_DIY.md)
 - The very first DIY Concept 
-- The Design Phase
-- The Fabrication Phase
-- The Testing Phase
+- [The Design Phase](https://github.com/aeonSolutions/aeonSolutions/blob/main/DIY_projects_The%20Design_Phase.md)
+- [The Fabrication Phase](https://github.com/aeonSolutions/aeonSolutions/blob/main/DIY_projects_Fabrication_Phase.md)
+- [The Testing Phase](https://github.com/aeonSolutions/aeonSolutions/blob/main/DIY_Projects_Testing_Phase.md)
 
 ### Pre-Startup Business
 How to open a business activity that is not yet a business nor an enterprise.
