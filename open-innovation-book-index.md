@@ -95,6 +95,6 @@ To learn more about open innovation using Github you are invited to read the art
 - [Financing Programs for Entrepreneurs](https://github.com/aeonSolutions/aeonSolutions/blob/main/startup_financing_programs_for_the_unemployed.md)
   - [Crowd Funding](https://github.com/aeonSolutions/aeonSolutions/blob/main/CrowdFunding.md)
   - [Safe Notes](https://github.com/aeonSolutions/aeonSolutions/blob/main/Safe_Notes.md)
-  - Conventional Bank Loans
+  - [Conventional Bank Loans](https://github.com/aeonSolutions/aeonSolutions/blob/main/Conventional_Bank_Loans.md)
 
 </div>
