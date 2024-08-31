@@ -29,10 +29,6 @@ Last update 31-08-2024
 ## Preface
 Starting as a DIY enthusiast often leads to the discovery of a passion or skill that can be turned into a viable business. What begins as a personal project, driven by creativity and hands-on learning, can evolve into a startup with the potential for growth. The transition from DIY to a startup involves recognizing the market demand for your product or service, refining your processes, and building a brand. With the right mindset and resources, what was once a hobby can become a successful business, offering not only personal fulfillment but also financial rewards. <sub> *source: ChatGPT* </sub>
 
-To learn more about open innovation using Github you are invited to read the article "[Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)". Good examples of how *the entrepreneur path* can happen on a "data repository" :
-- [Open Hardware Electronics for the Volvo P2 platform](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki)
-- [Real-time validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki)
-
 <br>
 
 ## Open Innovation
@@ -52,6 +48,10 @@ Another challenge is cultural resistance within organizations. Shifting from a t
 
 Despite these challenges, the benefits of open innovation are significant. By breaking down the walls that separate organizations from the outside world, open innovation enables companies to tap into a vast network of knowledge and creativity, drive faster and more effective innovation, and create value in new and unexpected ways. As the pace of technological change continues to accelerate, open innovation is likely to become an even more important strategy for organizations seeking to stay competitive in a rapidly evolving global market. <sub> *Source:chatGPT.com* </sub>
 
+To learn more about open innovation using Github you are invited to read the article "[Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)". Good examples of how *the entrepreneur path* can happen on a "data repository" :
+- [Open Hardware Electronics for the Volvo P2 platform](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki)
+- [Real-time validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki)
+  
 ## Index
 ### Do It Yourself 
 - [What is DIY](https://en.wikipedia.org/wiki/Do_it_yourself)
