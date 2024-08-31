@@ -16,7 +16,7 @@
 
 <div align="right">
    <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
- <a href=" ">Change language</a> <br>
+ <a href="https://github-com.translate.goog/aeonSolutions/aeonSolutions/blob/main/DIY_projects_The%20Design_Phase.md?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
 Last update 31-08-2024
 </div>
 
