@@ -68,6 +68,7 @@ To learn more about open innovation using Github you are invited to read the art
   - how to open a business activity that is not yet a business nor an enterprise  
  
 ### How to Startup Your Business <sub>*when you're unemployed*</sub> 
+- [Differences between DIY Consumers and Conventional Consumers]()
 - [Financing Programs for Entrepreneurs](https://github.com/aeonSolutions/aeonSolutions/blob/main/startup_financing_programs_for_the_unemployed.md)
 - Crowdfunding
 - Safe Notes
