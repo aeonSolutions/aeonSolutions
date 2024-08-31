@@ -90,7 +90,7 @@ To learn more about open innovation using Github you are invited to read the art
   - Trademarks  
 - Open Business Model
   - Open Licensing & Copyright
-  - Branding you r Business 
+  - Branding your Business 
 - [Financing Programs for Entrepreneurs](https://github.com/aeonSolutions/aeonSolutions/blob/main/startup_financing_programs_for_the_unemployed.md)
   - Crowdfunding
   - Safe Notes
