@@ -73,7 +73,7 @@ To learn more about open innovation using Github you are invited to read the art
   - [Bootstrapping](https://github.com/aeonSolutions/aeonSolutions/blob/main/Financing_Your_DIY_Projects_Bootstrapping.md)
   - Donations
   - Sponsorships & Sponsorware
-- Advertising and Marketing a DIY product 
+- [Advertising and Marketing a DIY product](https://github.com/aeonSolutions/aeonSolutions/blob/main/Advertising_and_Marketing_a_DIY_product.md) 
   - [Promotion of DIY Work online](https://github.com/aeonSolutions/aeonSolutions/blob/main/promotion_DIY_work_online.md)
   - The Pre-Startup Business Marketing Plan
   - The Pre-Startup Business Sales Plan 
