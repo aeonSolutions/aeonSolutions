@@ -62,7 +62,7 @@ To learn more about open innovation using Github you are invited to read the art
   - The Marketing Plan
   - The Sales Plan 
 - How to build a community
-  - [Promotion of DIY Work online]()
+  - [Promotion of DIY Work online](https://github.com/aeonSolutions/aeonSolutions/blob/main/promotion_DIY_work_online.md)
 - Selling your very first DIY product 
 - When my DIY is a Minimum viable Product (MVP)
 - [Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)
