@@ -15,13 +15,11 @@
 Hi there, <br>
 my name is Miguel Tomas. I was born in Porto City, Portugal. I started programming computer code on a Commodore 64 with only 11 years old. 
 
-I invite you, to fully browse all my repositories here on Github, and visit the web address links, where you can find, for instance, source code for software, designs for hardware electronics, read about my scientific publications and articles about technology, and even view videos on my YouTube channel about Artificial Intelligence and software & hardware electronics solutions deployed at enterprises. You will also find valued time reading my [daily tweets on Twitter](https://x.com/AeonlabsS) about simple technology idea fragments I encountered during the workday.
+I invite you, to fully browse all my repositories here on Github, and visit the web address links, where you can find, for instance, source code for software, designs for hardware electronics, read about my scientific publications and articles about technology, and even view videos on my YouTube channel about Artificial Intelligence and software & hardware electronics solutions deployed at enterprises. You will also find valued time reading my [daily tweets on Twitter](https://x.com/AeonlabsS) about simple technology idea fragments I encountered during the workday. Visit the [publications page](https://aeonsolutions.github.io/publications/) to find out more about published scientific communications in peer-reviewed journals.  On my [LinkedIn profile](https://www.linkedin.com/in/migueltomas/), you can find PDF copies of university diplomas, course certifications, recommendation letters, and much more.
 
 <p align="center">
   <img height="70" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/mtpsilva_signature.png">
 </p>
-
-Visit the [publications page](https://aeonsolutions.github.io/publications/) to find out more about published scientific communications in peer-reviewed journals.  On my [LinkedIn profile](https://www.linkedin.com/in/migueltomas/), you can find PDF copies of university diplomas, course certifications, recommendation letters, and much more.
 
 **About AeonLabs** <br>
 [AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototype of technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). See [here](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/How-to-Hire-AeonLabs) for information on how to hire AeonLabs.
