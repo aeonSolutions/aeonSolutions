@@ -46,7 +46,13 @@ Another challenge is cultural resistance within organizations. Shifting from a t
 
 Despite these challenges, the benefits of open innovation are significant. By breaking down the walls that separate organizations from the outside world, open innovation enables companies to tap into a vast network of knowledge and creativity, drive faster and more effective innovation, and create value in new and unexpected ways. As the pace of technological change continues to accelerate, open innovation is likely to become an even more important strategy for organizations seeking to stay competitive in a rapidly evolving global market. <sub> *Source:chatGPT.com* </sub>
 
-In summary, with all this global, planetary-wide internet, for an idea to become a successful business product or service, it requires entrepreneurs to make it available for D.Y.I. consumers before any other consumer market while at the same time requiring DIY and prototype work activities to happen LIVE, in real time, and while learning all about what future clients want and like. To learn more about open innovation using Github you are invited to read the article "[Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)".  Currenlty with more than 4,900 impressions and more than 3,400 unique views. Good examples of how *the entrepreneur path* can happen on a "data repository" :
+In summary, with all this global, planetary-wide internet, for an idea to become a successful business product or service, it requires entrepreneurs to make it available for D.Y.I. consumers before any other consumer market while at the same time requiring DIY and prototype work activities to happen LIVE, in real time, and while learning all about what future clients want and like. To learn more about open innovation using Github you are invited to read the article "[Open Innovation from D.I.Y to M.V.P. using GitHub](https://www.linkedin.com/pulse/open-innovation-from-diy-mvp-using-github-miguel-silva-asoaf/?trackingId=2J7XZsGWQkqOWCAluFR8dg%3D%3D)". 
+
+<p align="center">
+   <img height="100" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/linkedin_discovery.jpg">
+</p>
+
+Currently with more than 4,900 impressions and more than 3,400 unique views. Good examples of how *the entrepreneur path* can happen on a "data repository" :
 - [Open Hardware Electronics for the Volvo P2 platform](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki)
 - [Real-time validation of Experimental Data Origins: A Swarm of DAQ devices able to Deliver Unique Experimental Data using Blockchain-like Fingerprint ID to a Data Repository](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki)
   
