@@ -71,6 +71,9 @@ In 2024, I have to recommend and advise you, to buy a bus, any bus will do, just
 <br>
 
 ### Portugal
+&nbsp; &nbsp; In Portugal, there are *[EPAT entities](https://www.iefp.pt/estruturas-de-servicos-apoio)* dedicated to providing mentoring and support to writing the necessary *Investment Plan* for an entrepreneur to be able to apply to any Estate Funding Program and even any Estate supported financing program in a bank.  <br>
+&nbsp; &nbsp; After your DIY project is built and ready here on GitHub, or any other data repository, where anyone can read and understand what is it about, and when the time comes to advance into researching your market and future clients for your M.V.P. solutions, just before starting any business activities at *[Autoridade Tributária e Aduaneira (AT)](www.portaldasfinancas.gov.pt)* (the Portuguese IRS), the entrepreneur needs to contact a local *EPAT entity* to make the necessary arrangements for additional support and mentoring for the project. In return, the EPAT will provide a signed document where it states you are working with them towards writing of an *Investment Plan* with the final purpose of starting an enterprise and business....   <br>
+[Continue reading here](https://github.com/aeonSolutions/aeonSolutions/edit/main/startup_financing_programs_for_the_unemployed.md)
 
 <br>
 
