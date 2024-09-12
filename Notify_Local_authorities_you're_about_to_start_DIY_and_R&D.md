@@ -25,7 +25,7 @@ Last update 11-09-2024
 <div align="justify">
 
 # Notify Local authorities you're about to start DIY and R&D
-Before starting any DIY (Do-It-Yourself) or R&D (Research and Development) projects, it's important to notify local authorities, especially if your activities could impact public safety, zoning laws, environmental regulations, or noise levels in your community.  More importantly, in all other cases, **when the entrepreneur is a victim of some kind of harassment, bullying, and even theft of R&D work**. 
+During any DIY (Do-It-Yourself) or R&D (Research and Development) work activities, it's important to notify local authorities, especially if your activities could impact public safety, zoning laws, environmental regulations, or noise levels in your community.  More importantly, in all other cases, **when the entrepreneur is a victim of some kind of harassment, bullying, and even theft of R&D work**. 
 
 ### Why One Should Notify Local Authorities
 
