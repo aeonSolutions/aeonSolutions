@@ -70,6 +70,7 @@ These programs can vary greatly by country and region, so it is advisable to see
 <br>
 
 ## Portugal
+in Portugal, there are [EPAT entities](https://www.iefp.pt/estruturas-de-servicos-apoio) dedicated to providing mentoring and support to writing the necessary *Investment Plan* for an entrepreneur to be able to apply to any Estate Funding Program and even any Estate supported financing program in a bank.  
 
 ### microInvest Program
 &nbsp; &nbsp; Although the maximum financing amount is 95% of 20,000eur, the bank where one can apply for this program has also its own "*access conditions*", and this means the maximum financing lowers to 75%. To get to 95%, the entrepreneur must also meet the additional criteria defined by the bank. This information is usually omitted and must be asked to learn how it can be possible to reach 95%.  This is one of the reasons many projects are rejected for financing simply because the "investment plan" is designed for 95% of 20,000 euros.  In practical terms, the microInvest program allows financing up to 15,000 euros, instead of the 20,000 euros advertised on the internet. To get the 95% of the 20,000 euros advertised, additional documentation is required by the bank. 
