@@ -68,6 +68,7 @@ Currently with more than 4,900 impressions and more than 3,400 unique views. Goo
 
 ### Pre-Startup Business
 How to open a business activity that is not yet a business nor an enterprise.
+- [Notify Local authorities you're about to start DIY and R&D]()
 - [Your DIY solution is working. What are the next steps to sell it online? ](https://github.com/aeonSolutions/aeonSolutions/blob/main/your_DIY_solution_is_working.md)
 - [Create your Personal Brand](https://www.wix.com/blog/personal-branding-the-ultimate-guide)
 - [Types of Open Licences](https://snyk.io/learn/open-source-licenses/)
