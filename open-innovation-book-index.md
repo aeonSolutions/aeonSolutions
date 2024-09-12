@@ -61,7 +61,7 @@ Currently with more than 4,900 impressions and more than 3,400 unique views. Goo
 ### Do It Yourself 
 - [What is DIY](https://en.wikipedia.org/wiki/Do_it_yourself)
 - [How to do DIY](https://github.com/aeonSolutions/aeonSolutions/blob/main/How_to_do_DIY.md)
-- [Notify Local authorities you're about to start DIY and R&D]()
+- [Notify Local authorities you're about to start DIY and R&D](https://github.com/aeonSolutions/aeonSolutions/blob/main/Notify_Local_authorities_you're_about_to_start_DIY_and_R%26D.md)
 - The very first DIY Concept 
 - [The Design Phase](https://github.com/aeonSolutions/aeonSolutions/blob/main/DIY_projects_The%20Design_Phase.md)
 - [The Fabrication Phase](https://github.com/aeonSolutions/aeonSolutions/blob/main/DIY_projects_Fabrication_Phase.md)
