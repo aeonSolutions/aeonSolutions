@@ -58,13 +58,15 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
 
 - Construction & Building Materials Necessary to Build
   - *Dirt Cheap* and Cheap Dirt as a raw building Material 
-- Construction Technique, Tools, and Equipment needed
+- [Construction Technique, Tools, and Equipment needed](https://www.youtube.com/@RedEarthRanch)
 - Structural strength and Behaviour
 - Standards, Regulations & Legality
 - Cost of Building One
   - Details Cost  
   - Comparison with traditional reinforced concrete construction
-  - Say no to Bank Loans and Mortgages  
+- Say no to Bank Loans and Mortgages
+  - How to Plan your Professional Life
+  - [The Schoolie Option for a Home on Wheels](https://www.youtube.com/@ChuckCassadyYT) 
 
 <br>
 
