@@ -79,7 +79,9 @@ Have your *schoolie* ready by the time you end university studies
   - I saved enough money. It is time to buy Land
   - [The End Of Bus Life - Selling our Skoolie Home](https://www.youtube.com/watch?v=XrulYrtlsQ4&pp=ygUYY29zdCBvZiBsaXZpbmcgaW4gYSB2YW4g)  
 
-<br>
+<div align="center">
+   <img height="400" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/Rammed_Earth/media/rammed_earth.jpg">
+</div>
 
 ### Official Profiles Online
 In the following link is a list of ALL my *official profiles online* on other platforms and websites I use during my workday and work activity. <br>
