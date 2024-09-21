@@ -62,11 +62,14 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
 - Structural strength and Behaviour
 - Standards, Regulations & Legality
 - Cost of Building One
-  - Details Cost  
+  - Details Cost 
   - Comparison with traditional reinforced concrete construction
 - Say no to Bank Loans and Mortgages
   - How to Plan your Professional Life
-  - [The Schoolie Option for a Home on Wheels](https://www.youtube.com/@ChuckCassadyYT) 
+  - [The Schoolie Option for a Home on Wheels](https://www.youtube.com/@ChuckCassadyYT)
+    - Wake up on the Beach
+    - Wake up on the mountain
+    - Dangers of Living in a motorhome  
 
 <br>
 
