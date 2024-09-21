@@ -53,7 +53,7 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
   - [Those Photos on Pinterest look awesome!](https://www.pinterest.com/pin/7388786866440713/)
   - Parametric Construction
   - Bio Mimicry
-  - Electromagnetic Radiation
+  - Electromagnetic Radiation Protection
   - Construction Phases and Duration 
 
 - Construction & Building Materials Necessary to Build
