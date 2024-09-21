@@ -66,7 +66,8 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
 - Cost of Building One
   - Detailed Cost 
   - Comparison with traditional reinforced concrete construction
-- Say no to Renting, Bank Loans & Mortgages or How to Pay your Home in 5 years
+- Say no to Renting, Bank Loans & Mortgages <br>
+   How to Pay your Home in 5 years while living in a big city
 - [The Schoolie Option for a Home on Wheels](https://www.youtube.com/@ChuckCassadyYT)
   - Wake up on the Beach
   - Wake up on the Mountain
