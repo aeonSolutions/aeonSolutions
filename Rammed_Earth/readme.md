@@ -41,21 +41,24 @@ Rammed earth construction is a method where natural materials, primarily soil, a
 
 These walls are known for their thermal mass, which helps regulate indoor temperatures by absorbing heat during the day and releasing it at night. Rammed earth buildings often have a distinctive look, with visible layers or strata that show the construction process. The material itself can vary in color, texture, and composition, depending on the local soil. Over time, the walls harden further, adding to their longevity.
 
-This technique is ancient, used in many cultures worldwide, from China’s Great Wall to more modern eco-friendly designs, where it’s valued for being sustainable, low-cost, and using natural, locally sourced materials. <sub> *Source: chatGPT.com* </sub>
+This technique is ancient, and used in many cultures worldwide, from China’s Great Wall to more modern eco-friendly designs, where it’s valued for being sustainable, low-cost, and using natural, locally sourced materials. <sub> *Source: chatGPT.com* </sub>
 
 ## Index
 - Health Benefits
   - Feng Shui
   - Qi Energy
+  - Natural Protection from Electromagnetic Radiation 
  
 - Design and Plan Construction
   - Parametric Construction
   - Bio Mimicry
+  - Electromagnetic Radiation 
 
-- Construction & Building Materials necessary to build
+- Construction & Building Materials Necessary to Build
+  - *Dirt Cheap* and Cheap Dirt as a raw building Material 
 - Structural strength and Behaviour
-- Regulations and Legality
-- Costs of building one  
+- Standards, Regulations & Legality
+- Costs of Building One  
 
 <br>
 
