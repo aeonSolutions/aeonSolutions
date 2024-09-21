@@ -64,15 +64,14 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
 - Cost of Building One
   - Detailed Cost 
   - Comparison with traditional reinforced concrete construction
-- Say no to Renting, Bank Loans & Mortgages
-  - How to Pay your Home in 5 years
-  - [The Schoolie Option for a Home on Wheels](https://www.youtube.com/@ChuckCassadyYT)
-    - Wake up on the Beach
-    - Wake up on the Mountain
-    - Dangers of Living in a Motorhome
-    - Recommended Safety Upgrades to a *Schoolie* 
-    - How Long do I Need to Live on a Motorhome
-    - I saved enough money. It is time to buy Land  
+- Say no to Renting, Bank Loans & Mortgages or How to Pay your Home in 5 years
+- [The Schoolie Option for a Home on Wheels](https://www.youtube.com/@ChuckCassadyYT)
+  - Wake up on the Beach
+  - Wake up on the Mountain
+  - Dangers of Living in a Motorhome
+  - Recommended Safety Upgrades to a *Schoolie* 
+  - How Long do I Need to Live on a Motorhome
+  - I saved enough money. It is time to buy Land  
 
 <br>
 
