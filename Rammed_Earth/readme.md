@@ -52,14 +52,18 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
 - Design and Plan Construction
   - Parametric Construction
   - Bio Mimicry
-  - Electromagnetic Radiation 
+  - Electromagnetic Radiation
+  - Construction Phases and Duration 
 
 - Construction & Building Materials Necessary to Build
   - *Dirt Cheap* and Cheap Dirt as a raw building Material 
-- Construction Technique , Tools and Equiment needed
+- Construction Technique, Tools, and Equipment needed
 - Structural strength and Behaviour
 - Standards, Regulations & Legality
-- Costs of Building One  
+- Cost of Building One
+  - Details Cost  
+  - Comparison with traditional reinforced concrete construction
+  - Bank Loans and Morgages  
 
 <br>
 
