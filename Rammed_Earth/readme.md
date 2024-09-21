@@ -70,7 +70,9 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
     - Wake up on the Beach
     - Wake up on the Mountain
     - Dangers of Living in a Motorhome
-    - How Long do I Need to Live on a Motorhome  
+    - Recommended Safety Upgrades to a *Schoolie* 
+    - How Long do I Need to Live on a Motorhome
+    - I saved enough money. It is time to buy Land  
 
 <br>
 
