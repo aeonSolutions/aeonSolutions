@@ -69,7 +69,8 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
   - [The Schoolie Option for a Home on Wheels](https://www.youtube.com/@ChuckCassadyYT)
     - Wake up on the Beach
     - Wake up on the Mountain
-    - Dangers of Living in a Motorhome  
+    - Dangers of Living in a Motorhome
+    - How Long do I Need to Live on a Motorhome  
 
 <br>
 
