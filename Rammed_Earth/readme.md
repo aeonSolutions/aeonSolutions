@@ -10,16 +10,16 @@
 
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/open_science_lab.png" width="100%">
+   <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/media/rammed_earth_banner.png" height="300">
 </p>
 
-**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >> Main Page - Open Scientific Research
+**Navigation** | [AeonLabs Main Index](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  >> Main Page - Rammed Earth Construction
 
 
 <div align="right">
    <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
  <a href="">Change language</a> <br>
-Last update 20-09-2024
+Last update 21-09-2024
 </div>
 
 <br>
@@ -35,4 +35,10 @@ Last update 20-09-2024
 @@@@@@
 </div> <br>
 
-Read the Science about this project, [here](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/wiki)
+ℹ️ Read the Science behind this project, [here](https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/wiki)
+
+Rammed earth construction is a method where natural materials, primarily soil, are compressed to form solid walls. Builders typically mix earth with stabilizers like clay or cement to enhance strength, though traditional techniques might just use raw soil. This mixture is then poured into wooden or metal forms, where it's compacted layer by layer using manual or mechanical rammers. As the layers are compressed, they bond to create thick, durable walls.
+
+These walls are known for their thermal mass, which helps regulate indoor temperatures by absorbing heat during the day and releasing it at night. Rammed earth buildings often have a distinctive look, with visible layers or strata that show the construction process. The material itself can vary in color, texture, and composition, depending on the local soil. Over time, the walls harden further, adding to their longevity.
+
+This technique is ancient, used in many cultures worldwide, from China’s Great Wall to more modern eco-friendly designs, where it’s valued for being sustainable, low-cost, and using natural, locally sourced materials. <sub> *Source: chatGPT.com* </sub>
