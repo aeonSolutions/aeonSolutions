@@ -64,7 +64,7 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
 - Cost of Building One
   - Detailed Cost 
   - Comparison with traditional reinforced concrete construction
-- Say no to Bank Loans and Mortgages
+- Say no to Renting, Bank Loans & Mortgages
   - How to Plan your Professional Life
   - [The Schoolie Option for a Home on Wheels](https://www.youtube.com/@ChuckCassadyYT)
     - Wake up on the Beach
