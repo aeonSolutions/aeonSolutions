@@ -69,7 +69,7 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
 - Say no to Renting, Bank Loans & Mortgages <br>
    How to Pay your Home in 5 Years While Living in a Big City
 - [The Schoolie Option for a Home on Wheels](https://www.youtube.com/@ChuckCassadyYT)
-  - [Detailed Costs of Converting a School Bus](https://github.com/aeonSolutions/aeonSolutions/blob/main/Rammed_Earth/Schoolie/Our%20Wild%20Caravan%20Bus%20Expenses%20(work%20in%20progress).xlsx) 
+  - [Detailed Costs of Converting a School Bus](https://github.com/aeonSolutions/aeonSolutions/blob/main/Rammed_Earth/Schoolie/Our%20Wild%20Caravan%20Bus%20Expenses%20(work%20in%20progress).xlsx) (Excel file)
   - Wake up on the Beach
   - Wake up on the Mountain
   - Dangers of Living in a Motorhome
