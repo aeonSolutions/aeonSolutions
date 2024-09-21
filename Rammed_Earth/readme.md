@@ -68,8 +68,8 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
   - How to Plan your Professional Life
   - [The Schoolie Option for a Home on Wheels](https://www.youtube.com/@ChuckCassadyYT)
     - Wake up on the Beach
-    - Wake up on the mountain
-    - Dangers of Living in a motorhome  
+    - Wake up on the Mountain
+    - Dangers of Living in a Motorhome  
 
 <br>
 
