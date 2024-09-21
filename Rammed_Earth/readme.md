@@ -63,7 +63,7 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
 - Cost of Building One
   - Details Cost  
   - Comparison with traditional reinforced concrete construction
-  - Bank Loans and Morgages  
+  - Say no to Bank Loans and Mortgages  
 
 <br>
 
