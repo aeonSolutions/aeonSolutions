@@ -44,10 +44,16 @@ These walls are known for their thermal mass, which helps regulate indoor temper
 This technique is ancient, used in many cultures worldwide, from China’s Great Wall to more modern eco-friendly designs, where it’s valued for being sustainable, low-cost, and using natural, locally sourced materials. <sub> *Source: chatGPT.com* </sub>
 
 ## Index
--  Health Benefits
--  Design and Plan Construction 
--  Construction & Building Materials necessary to build
--  Structural strength and Behaviour
--  Regulations and Legality
--  Costs of building one  
+- Health Benefits
+  - Feng Shui
+  - Qi Energy
+ 
+- Design and Plan Construction
+  - Parametric Construction
+  - Bio Mimicry
+
+- Construction & Building Materials necessary to build
+- Structural strength and Behaviour
+- Regulations and Legality
+- Costs of building one  
 
