@@ -62,7 +62,7 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
 - Structural strength and Behaviour
 - Standards, Regulations & Legality
 - Cost of Building One
-  - Details Cost 
+  - Detailed Cost 
   - Comparison with traditional reinforced concrete construction
 - Say no to Bank Loans and Mortgages
   - How to Plan your Professional Life
