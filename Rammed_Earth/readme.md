@@ -67,7 +67,7 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
   - Detailed Cost 
   - Comparison with traditional reinforced concrete construction
 - Say no to Renting, Bank Loans & Mortgages <br>
-   How to Pay your Home in 5 years while living in a big city
+   How to Pay your Home in 5 Years While Living in a Big City
 - [The Schoolie Option for a Home on Wheels](https://www.youtube.com/@ChuckCassadyYT)
   - Wake up on the Beach
   - Wake up on the Mountain
