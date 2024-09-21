@@ -65,7 +65,7 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
   - Detailed Cost 
   - Comparison with traditional reinforced concrete construction
 - Say no to Renting, Bank Loans & Mortgages
-  - How to Plan your Professional Life
+  - How to Pay your Home in 5 years
   - [The Schoolie Option for a Home on Wheels](https://www.youtube.com/@ChuckCassadyYT)
     - Wake up on the Beach
     - Wake up on the Mountain
