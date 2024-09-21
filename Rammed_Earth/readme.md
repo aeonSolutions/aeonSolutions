@@ -72,7 +72,7 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
   - Wake up on the Mountain
   - Dangers of Living in a Motorhome
   - Recommended Safety Upgrades to a *Schoolie* 
-  - How Long do I Need to Live on a Motorhome
+  - [How Long do I Need to Live on a Motorhome](https://www.youtube.com/@ChristianSchaffer)
   - I saved enough money. It is time to buy Land
   - [The End Of Bus Life - Selling our Skoolie Home](https://www.youtube.com/watch?v=XrulYrtlsQ4&pp=ygUYY29zdCBvZiBsaXZpbmcgaW4gYSB2YW4g)  
 
