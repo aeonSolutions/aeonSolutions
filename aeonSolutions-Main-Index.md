@@ -39,7 +39,7 @@ I invite you, to fully browse all my repositories here on Github, and visit the 
 
 #### Open Innovation Index
 - [From Do It Yourself to a Startup Business](https://github.com/aeonSolutions/aeonSolutions/blob/main/open-innovation-book-index.md) 
-- [Open Construction Lifestyle](https://github.com/aeonSolutions/aeonSolutions/blob/main/Rammed_Earth/readme.md)
+- [Open Construction & Building Materials](https://github.com/aeonSolutions/aeonSolutions/blob/main/Rammed_Earth/readme.md)
 - [Open Automotive Electronics](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki)
 - [Validation of Data Origins](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki)
   
