@@ -39,7 +39,7 @@ I invite you, to fully browse all my repositories here on Github, and visit the 
 
 #### Open Innovation Index
 - [From Do It Yourself to a Startup Business](https://github.com/aeonSolutions/aeonSolutions/blob/main/open-innovation-book-index.md) 
-
+- [Open Construction Lifestyle](https://github.com/aeonSolutions/aeonSolutions/blob/main/Rammed_Earth/readme.md)
 <br>
 
  💬 There are new 🆕 comments on the [discussions page](https://github.com/aeonSolutions/aeonSolutions/discussions). Go check`em out. 🆕 There's a free Discord Server for all projects I author. To join [click here](https://discord.gg/czYK5pXA).<br>
