@@ -31,8 +31,6 @@ I invite you, to fully browse all my repositories here on Github, and visit the 
 - [Miguel Tomas Silva Résumé](https://github.com/aeonSolutions)
 - [Noteworthy Accomplishments](https://github.com/aeonSolutions/aeonSolutions/blob/main/Noteworthy_Accomplishments.md)
 - [Scientific Research Statment](https://github.com/aeonSolutions/aeonSolutions/blob/main/Scientific_Research_Statment.md)
-- [Open Automotive Electronics](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki)
-- [Validatin of Data Origins](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki)
   
 <br>
 
@@ -42,6 +40,9 @@ I invite you, to fully browse all my repositories here on Github, and visit the 
 #### Open Innovation Index
 - [From Do It Yourself to a Startup Business](https://github.com/aeonSolutions/aeonSolutions/blob/main/open-innovation-book-index.md) 
 - [Open Construction Lifestyle](https://github.com/aeonSolutions/aeonSolutions/blob/main/Rammed_Earth/readme.md)
+- [Open Automotive Electronics](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki)
+- [Validation of Data Origins](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki)
+- 
 <br>
 
  💬 There are new 🆕 comments on the [discussions page](https://github.com/aeonSolutions/aeonSolutions/discussions). Go check`em out. 🆕 There's a free Discord Server for all projects I author. To join [click here](https://discord.gg/czYK5pXA).<br>
