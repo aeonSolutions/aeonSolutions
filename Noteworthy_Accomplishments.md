@@ -29,8 +29,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- [Open electronics for vehicles](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki/ECU) with a combustion engine <br>
 <br>
 ■ Pioneering Safer Digital Transformations for Enterprises and Institutions using open technologies and open methodologies <br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Writing a book about "Open Innovation" <br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Sci. Researching sensor data collected from Data Acquisition Devices based on open hardware electronics with ability to do validation of data origins  <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Writing a book about "[Open Innovation](https://github.com/aeonSolutions/aeonSolutions/blob/main/open-innovation-book-index.md)" <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Sci. Research Data Acquisition Devices based on open hardware electronics with ability to do [validation of data origins](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki)  <br>
 
 
 
