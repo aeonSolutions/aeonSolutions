@@ -72,6 +72,8 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
     - [India's Water Revolution](https://youtu.be/wcYL5Uya5MU?si=uj1MItkBt3z_pgnK) 
   - Electromagnetic Radiation Protection
     - Grounding the Building
+    - [IEC 62561-1:2023](https://webstore.iec.ch/en/publication/68240)
+    - [IEEE 837](https://standards.ieee.org/ieee/837/4422/)
   - Construction Phases and Duration 
 
 - Construction & Building Materials Necessary to Build
