@@ -42,7 +42,7 @@ I invite you, to fully browse all my repositories here on Github, and visit the 
 - [Open Construction Lifestyle](https://github.com/aeonSolutions/aeonSolutions/blob/main/Rammed_Earth/readme.md)
 - [Open Automotive Electronics](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki)
 - [Validation of Data Origins](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki)
-- 
+  
 <br>
 
  💬 There are new 🆕 comments on the [discussions page](https://github.com/aeonSolutions/aeonSolutions/discussions). Go check`em out. 🆕 There's a free Discord Server for all projects I author. To join [click here](https://discord.gg/czYK5pXA).<br>
