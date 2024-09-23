@@ -59,6 +59,23 @@ These walls are known for their thermal mass, which helps regulate indoor temper
 
 This technique is ancient, and used in many cultures worldwide, from China’s Great Wall to more modern eco-friendly designs, where it’s valued for being sustainable, low-cost, and using natural, locally sourced materials. <sub> *Source: chatGPT.com* </sub>
 
+## 🔸Total Cost of this Project
+The current total cost of this project, to date, is listed below:
+- Work hours dedicated to this project: >500 w.h <br>
+  This includes research and study about "Rammed Earth" Construction Techniques, "Motorhome conversions", Bio EM RF, building this repository, and other useless miscellaneous online tasks. <br>
+  Prototyping and Research for Construction Solutions.
+- Electronic components  >100 eur
+- Other materials ~300 eur
+
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
+
 ## Index
 - Health Benefits
   - Feng Shui
