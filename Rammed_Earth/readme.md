@@ -47,7 +47,8 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
 Nowadays with the high costs of both renting and buying a home, it has forced individuals and families to sign bank loan mortgage contracts with a lifetime payment duration. Currently, in Portugal, it means 40 years of monthly down payments that when all paid and done it is almost time to retire. The same can be found in many other countries not only in Europe but also in America, the United States, and Canada. 
 
 ## Solution
-Amidst COVID-19, in 2020, many Americans decided to promote on YouTube their solution to this problem. In the United States and Canada buying a Van and a School Bus, is so cheap it became the vehicles of choice for Do It Yourself (DIY) type of conversion and transformation into a motorhome on wheeels. 
+Amidst COVID-19, in 2020, many Americans decided to promote their solution to this problem on YouTube. In the United States and Canada buying a Van and a School Bus is so cheap it became the vehicle of choice for Do It Yourself (DIY) type of conversion and transformation into a motorhome on Wheels. Entry conversion costs start at only $20,000 USD and can go as high as $80,000 USD and it can take between 3 months to 12 months to do a conversation.  This new lifestyle to avoid wasting money on renting and avoiding paying bank loans consists of living and working in a motorhome for at least the minimum time period that enables them to buy property land without the need to finance and go into debt. 
+
 
 ## Index
 - Health Benefits
