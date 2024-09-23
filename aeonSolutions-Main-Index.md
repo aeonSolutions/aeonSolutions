@@ -4,7 +4,7 @@
 <div align="right">
    <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
  <a href="https://github-com.translate.goog/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
-<sup>Last update 01-09-2024</sup> 
+<sup>Last update 23-09-2024</sup> 
 </div>
 
 <br>
