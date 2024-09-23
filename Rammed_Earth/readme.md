@@ -71,6 +71,7 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
   - Bio Mimicry
     - [India's Water Revolution](https://youtu.be/wcYL5Uya5MU?si=uj1MItkBt3z_pgnK) 
   - Electromagnetic Radiation Protection
+    - Grounding the Building
   - Construction Phases and Duration 
 
 - Construction & Building Materials Necessary to Build
