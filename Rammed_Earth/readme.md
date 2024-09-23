@@ -44,12 +44,22 @@ Last update 23-09-2024
 &nbsp;&nbsp;  Amidst COVID-19, in 2020, many Americans decided to promote their solution to this problem on YouTube. In the United States and Canada buying a Van and a School Bus is so cheap it became the vehicle of choice for Do It Yourself (DIY) type of conversion and transformation into a motorhome on Wheels. Entry conversion costs start at only $20,000 USD and can go as high as $80,000 USD and it can take between 3 months to 12 months to do a conversation.  In the end, anyone is able to sell it for a fair price. For instance on the next Facebook group "[Schoolies for sale](https://www.facebook.com/groups/238599331115958)". <br>
 &nbsp;&nbsp; This new lifestyle to avoid wasting money on renting and avoiding paying bank loans consists of living and working in a motorhome for at least the minimum period of time that enables them to buy property land without the need to finance and go into debt. The Youtuber known as [Christian Schaffer](https://www.youtube.com/@ChristianSchaffer) has an extensive playlist on how to live in a motorhome including costs, lifestyle, and dangers of living and working in a home on wheels. In real-life terms, in the USA, it means 3 to 5 years of living in a home on wheels. However it does not end here, for one to be able to have their own property and home without entering into any long-term debt, after buying a property, one needs to learn how to construct, fabricate, and build themselves, a home to live in. <br>
 &nbsp;&nbsp;  On YouTube and Google, it is possible to find many cheap construction solutions, however, there is a better, in particular, the Australian construction technique known as "rammed earth" that I give preference and add my own personal techniques and materials to build one. This construction technique utilizes the soil and wood the property is able to provide and that can be used as construction building materials for zero cost. <br>
-&nbsp;&nbsp;  To build their homes, the owners rent tools and equipment plus Engineering services to mentor them during all phases of construction. The [Red Earth Ranch channel](https://www.youtube.com/@RedEarthRanch) on YouTube has a detailed and extensive video blog showing all phases of construction of their rammed earth home. In the end, one can own a home, that is equal to those [beautiful homes that are possible to browse and see on Pinterest](https://www.pinterest.com/pin/7388786866440713/), while paying for it in only 5 years.
+&nbsp;&nbsp;  To build their homes, the owners rent tools and equipment plus Engineering services to mentor them during all phases of construction, for instance, the [Red Earth Ranch channel](https://www.youtube.com/@RedEarthRanch) on YouTube has a detailed and extensive video blog showing all phases of construction of their rammed earth home. In the end, one can own a home, that is equal to those [beautiful homes that are possible to browse and see on Pinterest](https://www.pinterest.com/pin/7388786866440713/), while paying for it in only 5 years.
 
 <div align="center">
  <a href="https://www.pinterest.com/pin/7388786866440713/">
    <img height="400" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/Rammed_Earth/media/rammed_earth.jpg">
  </a>
+</div>
+
+<br>
+
+<div align="center">
+ 
+**Join the Discord Server** <br>
+ 
+ [![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
+
 </div>
 
 ## Rammed Earth Construction
