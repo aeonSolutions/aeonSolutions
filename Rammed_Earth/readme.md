@@ -64,14 +64,16 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
   - Feng Shui
   - Qi Energy
   - Natural Protection from Electromagnetic Radiation 
- 
+  - Electromagnetic Radiation Protection
+    - [Grounding the Building](https://www.youtube.com/watch?v=Uf0hEuZ37mU)
+    - 
+       
 - Design and Plan Construction
   - [Those Photos on Pinterest look awesome!](https://www.pinterest.com/pin/7388786866440713/)
   - Parametric Construction
   - Bio Mimicry
     - [India's Water Revolution](https://youtu.be/wcYL5Uya5MU?si=uj1MItkBt3z_pgnK) 
   - Electromagnetic Radiation Protection
-    - Grounding the Building
     - [IEC 62561-1:2023](https://webstore.iec.ch/en/publication/68240)
     - [IEEE 837](https://standards.ieee.org/ieee/837/4422/)
   - Construction Phases and Duration 
