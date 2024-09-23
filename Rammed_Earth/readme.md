@@ -47,8 +47,11 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
 Nowadays with the high costs of both renting and buying a home, it has forced individuals and families to sign bank loan mortgage contracts with a lifetime payment duration. Currently, in Portugal, it means 40 years of monthly down payments that when all paid and done it is almost time to retire. The same can be found in many other countries not only in Europe but also in America, the United States, and Canada. 
 
 ## Solution
-Amidst COVID-19, in 2020, many Americans decided to promote their solution to this problem on YouTube. In the United States and Canada buying a Van and a School Bus is so cheap it became the vehicle of choice for Do It Yourself (DIY) type of conversion and transformation into a motorhome on Wheels. Entry conversion costs start at only $20,000 USD and can go as high as $80,000 USD and it can take between 3 months to 12 months to do a conversation.  This new lifestyle to avoid wasting money on renting and avoiding paying bank loans consists of living and working in a motorhome for at least the minimum time period that enables them to buy property land without the need to finance and go into debt. 
+Amidst COVID-19, in 2020, many Americans decided to promote their solution to this problem on YouTube. In the United States and Canada buying a Van and a School Bus is so cheap it became the vehicle of choice for Do It Yourself (DIY) type of conversion and transformation into a motorhome on Wheels. Entry conversion costs start at only $20,000 USD and can go as high as $80,000 USD and it can take between 3 months to 12 months to do a conversation.  This new lifestyle to avoid wasting money on renting and avoiding paying bank loans consists of living and working in a motorhome for at least the minimum time period that enables them to buy property land without the need to finance and go into debt. In real-life terms and in the USA it means 3 to 5 years of living in a home on wheels.  However it does not end here, for one to be able to have their own property and home without entering into any long-term debt, after buying a property, one needs to learn how to construct, fabricate, and build themselves, a home to live in. On YouTube and on Google is possible to find many cheap construction solutions, however, there is a better, in particular, the Australian construction technique known as "rammed earth". In the end, one can own a home, which is equal to those beautiful homes that are possible to browse and see on Pinterest. 
 
+<div align="center">
+   <img height="400" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/Rammed_Earth/media/rammed_earth.jpg">
+</div>
 
 ## Index
 - Health Benefits
@@ -86,9 +89,7 @@ Have your *schoolie* ready by the time you end university studies
   - I saved enough money. It is time to buy Land
   - [The End Of Bus Life - Selling our Skoolie Home](https://www.youtube.com/watch?v=XrulYrtlsQ4&pp=ygUYY29zdCBvZiBsaXZpbmcgaW4gYSB2YW4g)  
 
-<div align="center">
-   <img height="400" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/Rammed_Earth/media/rammed_earth.jpg">
-</div>
+
 
 ### Official Profiles Online
 In the following link is a list of ALL my *official profiles online* on other platforms and websites I use during my workday and work activity. <br>
