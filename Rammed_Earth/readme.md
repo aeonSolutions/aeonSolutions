@@ -43,6 +43,12 @@ These walls are known for their thermal mass, which helps regulate indoor temper
 
 This technique is ancient, and used in many cultures worldwide, from China’s Great Wall to more modern eco-friendly designs, where it’s valued for being sustainable, low-cost, and using natural, locally sourced materials. <sub> *Source: chatGPT.com* </sub>
 
+## The Problem
+Nowadays with the high costs of both renting and buying a home, it has forced individuals and families to sign bank loan mortgage contracts with a lifetime payment duration. Currently, in Portugal, it means 40 years of monthly down payments that when all paid and done it is almost time to retire. The same can be found in many other countries not only in Europe but also in America, the United States, and Canada. 
+
+## Solution
+Amidst COVID-19, in 2020, many Americans decided to promote on YouTube their solution to this problem. In the United States and Canada buying a Van and a School Bus, is so cheap it became the vehicles of choice for Do It Yourself (DIY) type of conversion and transformation into a motorhome on wheeels. 
+
 ## Index
 - Health Benefits
   - Feng Shui
