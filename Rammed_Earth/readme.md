@@ -27,7 +27,7 @@ Last update 21-09-2024
 <div align="justify">
 
 ## Welcome to Rammed Earth Construction <sub> [by AeonLabs](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md)  </sub>
-<sup> [where to buy](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Where-to-Buy) ready to use. </sup>
+**Current Project Total: > 500 work.h** <br>
 
 ░ ░[AeonLabs](https://www.linkedin.com/company/aeonlabs/), a personal brand of Miguel T., is about the conceptualization, design, and prototyping of open technology solutions for Enterprise businesses and Institutions. To know more about the author visit his [LinkedIn profile](https://www.linkedin.com/in/migueltomas/). To learn more about AeonLabs [click here](https://github.com/aeonSolutions/aeonSolutions/blob/main/aeonSolutions-Main-Index.md).
 
@@ -66,8 +66,7 @@ This technique is ancient, and used in many cultures worldwide, from China’s G
   - Natural Protection from Electromagnetic Radiation 
   - Electromagnetic Radiation Protection
     - [Grounding the Building](https://www.youtube.com/watch?v=Uf0hEuZ37mU)
-    - 
-       
+ 
 - Design and Plan Construction
   - [Those Photos on Pinterest look awesome!](https://www.pinterest.com/pin/7388786866440713/)
   - Parametric Construction
