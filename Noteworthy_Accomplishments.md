@@ -4,7 +4,7 @@
 <div align="right">
    <img height="25" src="https://github.com/aeonSolutions/aeonSolutions/blob/main/media/language-icon.png"> 
  <a href="https://github-com.translate.goog/aeonSolutions/aeonSolutions/blob/main/Noteworthy_Accomplishments.md?_x_tr_sl=en&_x_tr_tl=nl&_x_tr_hl=en&_x_tr_pto=wapp">Change language</a> <br>
-<sup>Last update 14-08-2024</sup> 
+<sup>Last update 23-09-2024</sup> 
 </div>
 
 <br>
@@ -27,6 +27,10 @@
 ■ Successfully designed & prototyped more than 7 open solutions for the automotive sector: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Common injection rail for LPG systems (2014-2016). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- [Open electronics for vehicles](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/wiki/ECU) with a combustion engine <br>
+<br>
+■ Pioneering Safer Digital Transformations for Enterprises and Institutions using open technologies and open methodologies <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Writing a book about "Open Innovation" <br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Sci. Researching sensor data collected from Data Acquisition Devices based on open hardware electronics with ability to do validation of data origins  <br>
 
 
 
