@@ -46,6 +46,7 @@ Fulfilling this future will significantly lower the cost of ubiquitous smart dev
 <br>
 
 To learn more about how I do science and my views on how science needs to be made, I invite the reader to go to my [open science repository](https://github.com/aeonSolutions/Open-Scientific-Research). 🙏 <br>
+
 ***Minimum Conditions for Hiring me*** <br>
 - Active monitoring of wireless radiation and vibration at the workplace
 - My contract document is published online for anyone to read
