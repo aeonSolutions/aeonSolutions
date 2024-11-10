@@ -85,13 +85,13 @@ The video below, made by [Anitay Boneh](https://www.linkedin.com/in/amitayboneh/
 ### Youtube channel
 <p align="center">
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=uzuPwudTzNk" target="_blank">
-    <img width="30%" src="http://img.youtube.com/vi/uzuPwudTzNk/mqdefault.jpg" alt="Watch the video"  border="10" />
+    <img width="30%" src="http://img.youtube.com/vi/uzuPwudTzNk/mqdefault.jpg" alt="Watch the video"  border="1" />
   </a>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=EvLZCIj2IXs" target="_blank">
-    <img width="30%" src="http://img.youtube.com/vi/EvLZCIj2IXs/mqdefault.jpg" alt="Watch the video"  border="10" />
+    <img width="30%" src="http://img.youtube.com/vi/EvLZCIj2IXs/mqdefault.jpg" alt="Watch the video"  border="1" />
   </a>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=Yox3ejbAqxY" target="_blank">
-    <img width="30%" src="http://img.youtube.com/vi/Yox3ejbAqxY/mqdefault.jpg" alt="Watch the video"  border="10" />
+    <img width="30%" src="http://img.youtube.com/vi/Yox3ejbAqxY/mqdefault.jpg" alt="Watch the video"  border="1" />
   </a>
 </p>
 
